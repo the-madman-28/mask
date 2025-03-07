@@ -1,0 +1,83 @@
+{
+    "Non sensitive": {
+        "Software": [
+            "Hi team, I want to upgrade the {{software}} for my project requirements. Kidly do the needful.",
+            "Hi team, I am not able to run {{software}} in my system due to internal error. Please see the attached error and resolve the issue",
+            "Hi, I need to the installation of {{software}} for development purpose of my project.",
+            "Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails",
+            "Hi team I want to access {{url}} website for research purpose kindly remove the site from the proxy"
+        ],
+        "Finance": [
+            "Hi, my team needs a new {{product_name}} for the project kindly help us to come up with the quote for the said product.",
+            "Hi team I want to change my salary structure according to the given details please update my salary structure.",
+            "Hi, I need a corporate credit card for my international travel with the {{money}}. Please issue the same at the earliest. I have attached the approval and important documents. Thank you."
+        ],
+        "Travel": [
+            "Hi, I need {{money}} for my international business travel that is on {{date}} please see the attached itinerary and approval. Thank you.",
+            "Dear team, I am shifting to {{city}} from {{city}} due to business requirement. Please let me know the procedure to claim the travel allowance."
+        ],
+        "Leave": [
+            "Hi, I have applied for the sick leave on {{date}} with which was approved by my manager but is not reflected on the system. Please resolve the issue.",
+            "Hi team, my be leave balance shown in the system is not correct as of {{date}}. The leave shown are less. Please resolve the issue.",
+            "Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue."
+        ],
+        "HR": [
+            "Hi Team, can you please confirm whether on the {{date}} we have a vacation or not as in my state it is a regional festival.",
+            "Hi HR team I want to refer my friend for the {{job}} but I cannot access the referral site. Can you please accept this referral through this mail.",
+            "Hi Team, I was wondering whether this {{job}} is still available in this team. I want to refer my friend for this role. please confirm."
+        ],
+        "Access": [
+            "Hi, I have been logged out of my account and cannot login back. my username is {{username}}. Please resolve it.",
+            "Hi team, I need access to the intern portal. please enable it for me.",
+            "Hi team, i do not need access the master database now due to project change. Please revoke my access."
+        ],
+        "Medical": [
+            "Hi, I had applied for the claim on {{date}}. I can see there is no progress on the claim. Please expedite the claim process.",
+            "Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city {{city}}.",
+            "hi, what are the documents needed for new enrollment in health insurance. Please guide me."
+        ],
+        "Purchase": [
+            "Hi team, I need the catalogue of available {{product_name}} for purchase with the price listed. Please send me the catalogue.",
+            "Hi, I have a need of {{product_name}} in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",
+            "Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet."
+        ]
+    },
+    "Sensitive": {
+        "Travel": [
+            "Hi,I am {{name}} and my employee ID is EMP{{ssn}}. \nI am having trouble with my travel claim, my expense amount was {{money}} for reimbursement.\n My other details such as designation is {{job}} and email is {{mail}}. \nThe payment was done with given credit card number {{credit_card_number}} and credit card type {{cc_provider}}.",
+            "Hi,I am {{name}} and my employee ID is EMP{{ssn}}. \nI am having trouble with my travel claim, my expense amount was {{money}} for reimbursement. \nMy other details such as email is {{mail}} and postal code is {{zip_code}} and account number is {{bank_account_number}}. \nPlease look into matter asap. My place of residence is {{address}}."
+        ],
+        "Finance": [
+            "Hi,I am {{name}} and my employee ID is EMP{{ssn}}. \nI am having trouble with my hardware claim, my expense amount was {{money}} for reimbursement. \nMy other details such as designation is {{job}}, userid {{username}} and email is {{mail}}.",
+            "I made a payment of {{money}} for my account on {{date}}, but it has not been credited yet. The payment was made using my credit card {{credit_card_number}}. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is {{mail}} and phone number is {{phone_number}}",
+            "I noticed unauthorized transactions on my credit card statement for the amount of {{money}} on {{date}}. The transactions are listed as {{company}}. I did not authorize these transactions and would like them to be reversed immediately to my credit card {{credit_card_number}}."
+        ],
+        "Medical": [
+            "Hi,I am {{name}} and from {{address}}. \nI am having trouble with my medical claim, my employee ID is EMP{{ssn}} and amount was {{money}}. \nThe payment was made through my credit card {{credit_card_number}}. \nMy other details such as designation is {{job}} email is {{mail}} and postal code is {{zip_code}}. \nPlease resolve my issue asap.",
+            "Hi,I am {{name}} and I work in {{company}}. My employee ID is EMP{{ssn}}. \nI am having trouble with health account, my userid is {{username}} and amount was {{money}}. \nMy postal code is {{zip_code}}. My country of residence is {{address}}. \nPlease look into matter asap.",
+            "Hi,I am {{name}} and my employee ID is EMP{{ssn}} from {{company}}. \nI am having trouble with health account, my National Health Scheme number is {{ssn}} and amount was {{money}}. \nMy other details such as email is {{mail}} and postal code is {{zip_code}}. \nPlease look into matter. My place of residence is {{address}}."
+        ],
+        "Access": [
+            "I am unable to log in to my account. My credentials are, username {{username}}, email {{mail}}. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",
+            "I have recently moved and would like to update my account information with my new address. My new address is {{residence}}. Please assist me with updating my account information."
+        ],
+        "Purchase": [
+            "I recently purchased {{product_name}} for the amount {{money}} on date {{date}}, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date {{date}} from my home {{residence}} and initiate a refund to my credit card {{credit_card_number}}.",
+            "I am experiencing technical issues with {{product_name}}. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username {{username}}, Email {{mail}}."
+        ],
+        "Software": [
+            "Hi team I want to access {{url}} website for research purpose kindly remove the site from the proxy. My employee id is {{ssn}} and my profile is {{job}}.",
+            "hi team, I am {{name}} and my employee id is {{ssn}}. I need the installation of {{software}} for the development purpose. I have attached required approvals in the attachment. thank you.",
+            "Hi, I want the installation of python package {{python_package}}. It is required for the development. I am attaching the approval of my manager. PFA. Thank you"
+        ],
+        "HR": [
+            "Hi I am {{name}}, currently working as {{job}}. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",
+            "Hi team, I want to avail the maternity benefit from {{date}}. My employee ID is {{ssn}} and designation is {{job}}. Kindly approve the same. Ihave attched the required documents. PFA",
+            "Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is {{ssn}}. Please initiate the recruitment under my project. thanks"
+        ],
+        "Leave": [
+            "Hi team, I want a leave from {{date}} for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:{{name}}, designation {{job}}",
+            "Hi team, I am {{name}}, employee id {{ssn}}. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you."
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "data": "educated",
+    "left": {
+        "data": "university",
+        "left": {
+            "data": "postgrad",
+            "left": {
+                "data": "doctorate",
+                "left": null,
+                "right": null
+            },
+            "right": {
+                "data": "masters",
+                "left": null,
+                "right": null
+            }
+        },
+        "right": {
+            "data": "bachelors",
+            "left": null,
+            "right": null
+        }
+    },
+    "right": {
+        "data": "secondary",
+        "left": {
+            "data": "senior secondary",
+            "left": null,
+            "right": null
+        },
+        "right": {
+            "data": "junior secondary",
+            "left": null,
+            "right": null
+        }
+    }
+}

@@ -1,0 +1,1246 @@
+ticket_id,user_id,customer,category,priority,description,attribute_list,sensitive_flag
+0,54,0,4,3,Hi HR team I want to refer my friend for the Paediatric nurse but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+1,133,2,1,2,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+2,17,2,3,2,"Hi team, I am Russell Erickson, employee id 317-79-7713. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+3,25,0,3,3,"Hi, I have applied for the sick leave on 1992-12-07 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+4,21,2,1,3,"Hi, my team needs a new Air Conditioner for the project kindly help us to come up with the quote for the said product.",product_name,0
+5,45,3,3,2,"Hi team, my be leave balance shown in the system is not correct as of 2008-03-12. The leave shown are less. Please resolve the issue.",date,0
+6,199,0,7,2,"Hi, I have a need of Blender in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+7,104,4,3,3,"Hi, I have applied for the sick leave on 1982-09-06 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+8,154,2,2,3,"Dear team, I am shifting to Adamsfurt from Biancaberg due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+9,42,4,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+10,46,4,3,3,"Hi team, I am Clayton Dixon, employee id 738-01-8511. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+11,75,1,3,3,"Hi team, I am Benjamin Ward, employee id 384-55-6297. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+12,190,3,0,3,"Hi, I want the installation of python package scikit. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+13,39,3,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Rayfurt.,city,0
+14,51,1,5,2,"Hi,I am Maria Martinez and I work in Brewer, Ingram and Hubbard. My employee ID is EMP832-18-5339. 
+I am having trouble with health account, my userid is jamesfernandez and amount was $27.82. 
+My postal code is 62799. My country of residence is 67762 Lee Crossroad
+Thomastown, HI 81514. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+15,9,3,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1983-01-16. The leave shown are less. Please resolve the issue.",date,0
+16,188,1,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+17,31,1,4,3,"Hi HR team I want to refer my friend for the Lighting technician, broadcasting/film/video but I cannot access the referral site. Can you please accept this referral through this mail.",job,0
+18,117,0,0,3,Hi team I want to access http://stone.com/ website for research purpose kindly remove the site from the proxy,url,0
+19,93,0,0,2,"Hi team, I am not able to run Asana in my system due to internal error. Please see the attached error and resolve the issue",software,0
+20,14,3,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+21,117,0,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+22,78,1,3,0,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+23,46,4,4,2,"Hi I am Clayton Dixon, currently working as Retail merchandiser. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+24,133,2,1,3,"Hi, my team needs a new Dehumidifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+25,194,0,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+26,11,4,1,3,"Hi, I need a corporate credit card for my international travel with the $26,207.89. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+27,111,3,3,1,"Hi team, my be leave balance shown in the system is not correct as of 1977-12-31. The leave shown are less. Please resolve the issue.",date,0
+28,147,2,2,2,"Dear team, I am shifting to North Brian from New Jason due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+29,107,3,7,2,"Hi, I have a need of Blender in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+30,156,3,1,1,"Hi, I need a corporate credit card for my international travel with the $44,097.09. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+31,161,4,3,0,"Hi team, I want a leave from 2019-02-17 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Jessica Hawkins, designation Claims inspector/assessor",date name job,1
+32,182,2,5,0,"Hi,I am Michael Anderson and from 7988 Davis Curve Suite 794
+Lake Lisa, ID 17600. 
+I am having trouble with my medical claim, my employee ID is EMP251-62-3364 and amount was $8.05. 
+The payment was made through my credit card 2374097768464208. 
+My other details such as designation is Accountant, chartered management email is dadams@hotmail.com and postal code is 31533. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+33,27,3,3,0,"Hi team, my be leave balance shown in the system is not correct as of 1984-06-04. The leave shown are less. Please resolve the issue.",date,0
+34,121,0,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2011-07-09. The leave shown are less. Please resolve the issue.",date,0
+35,10,0,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+36,58,1,0,2,"Hi, I need to the installation of Gainsight for development purpose of my project.",software,0
+37,86,3,3,1,"Hi team, I want a leave from 1980-06-03 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Mrs. Cheryl Garcia, designation Ecologist",date name job,1
+38,67,4,5,2,"Hi, I had applied for the claim on 1982-03-30. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+39,105,3,2,3,"Hi, I need $2.95 for my international business travel that is on 1975-10-10 please see the attached itinerary and approval. Thank you.",money date,0
+40,50,0,1,2,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+41,30,1,2,3,"Dear team, I am shifting to East Carrieland from New Patrick due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+42,161,4,7,3,"Hi team, I need the catalogue of available Refrigerator for purchase with the price listed. Please send me the catalogue.",product_name,0
+43,134,4,6,2,"I am unable to log in to my account. My credentials are, username ronald04, email josephlarson@yahoo.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+44,62,2,6,3,"Hi, I have been logged out of my account and cannot login back. my username is slutz. Please resolve it.",username,0
+45,135,3,7,3,"Hi, I have a need of Garbage Disposal Unit in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+46,41,3,2,3,"Hi,I am Pamela Cook and my employee ID is EMP093-51-4073. 
+I am having trouble with my travel claim, my expense amount was $312.65 for reimbursement. 
+My other details such as email is pwilliams@hotmail.com and postal code is 66576 and account number is SXNQ97767254709946. 
+Please look into matter asap. My place of residence is 094 Amy Forest Suite 770
+East Jessica, OR 49873.",name ssn money mail zip_code bank_account_number address,1
+47,30,1,3,2,"Hi, I have applied for the sick leave on 2022-01-16 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+48,192,1,2,3,"Dear team, I am shifting to West Timothyside from Simpsonfurt due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+49,171,3,2,3,"Dear team, I am shifting to West Brandontown from Kimberlyton due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+50,196,0,4,3,"Hi Team, I was wondering whether this Airline pilot is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+51,100,1,2,2,"Hi, I need $1,156.24 for my international business travel that is on 1977-04-26 please see the attached itinerary and approval. Thank you.",money date,0
+52,189,0,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+53,91,2,7,2,"I am experiencing technical issues with Domestic Robot. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username ykennedy, Email wedwards@hotmail.com.",product_name username mail,1
+54,21,2,2,2,"Hi,I am Alan Romero and my employee ID is EMP701-37-8444. 
+I am having trouble with my travel claim, my expense amount was $508.03 for reimbursement.
+ My other details such as designation is Brewing technologist and email is holly92@gmail.com. 
+The payment was done with given credit card number 30091079470897 and credit card type Mastercard.",name ssn money job mail credit_card_number cc_provider,1
+55,168,3,4,0,"Hi Team, can you please confirm whether on the 1996-04-29 we have a vacation or not as in my state it is a regional festival.",date,0
+56,47,1,7,3,"Hi, I have a need of Domestic Robot in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+57,154,2,3,2,"Hi team, I am Douglas Garcia, employee id 807-89-0819. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+58,191,0,7,3,"Hi team, I need the catalogue of available Refrigerator for purchase with the price listed. Please send me the catalogue.",product_name,0
+59,112,2,3,0,"Hi team, my be leave balance shown in the system is not correct as of 1998-02-01. The leave shown are less. Please resolve the issue.",date,0
+60,22,4,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1994-12-13. The leave shown are less. Please resolve the issue.",date,0
+61,74,4,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Aguilarstad.,city,0
+62,78,1,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1973-10-19. The leave shown are less. Please resolve the issue.",date,0
+63,83,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+64,53,1,4,2,"Hi Team, can you please confirm whether on the 2016-06-01 we have a vacation or not as in my state it is a regional festival.",date,0
+65,109,1,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+66,15,4,2,3,"Hi, I need $1,133.91 for my international business travel that is on 1998-11-29 please see the attached itinerary and approval. Thank you.",money date,0
+67,5,0,3,3,"Hi, I have applied for the sick leave on 2013-10-01 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+68,43,3,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+69,64,4,2,2,"Hi, I need $8.98 for my international business travel that is on 2012-07-25 please see the attached itinerary and approval. Thank you.",money date,0
+70,123,0,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+71,178,4,7,3,"Hi team, I need the catalogue of available Air Conditioner for purchase with the price listed. Please send me the catalogue.",product_name,0
+72,140,4,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+73,68,2,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+74,57,2,3,3,"Hi team, I want a leave from 2003-03-27 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Christopher Frederick, designation Scientist, research (maths)",date name job,1
+75,113,1,0,3,"Hi team, I am not able to run Intuit in my system due to internal error. Please see the attached error and resolve the issue",software,0
+76,98,3,5,3,"Hi, I had applied for the claim on 2006-08-18. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+77,17,2,7,1,"Hi, I have a need of Blender in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+78,54,0,1,3,"I made a payment of $59.84 for my account on 1976-05-12, but it has not been credited yet. The payment was made using my credit card 213184758718931. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is lewistimothy@hotmail.com and phone number is 8081894215001",money date credit_card_number mail phone_number,1
+79,47,1,0,3,Hi team I want to access http://www.sims.com/ website for research purpose kindly remove the site from the proxy,url,0
+80,25,0,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+81,106,1,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+82,152,1,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Lake Amanda.,city,0
+83,17,2,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+84,41,3,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+85,67,4,5,3,"Hi, I had applied for the claim on 2008-06-30. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+86,195,2,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 2197 Donald Station Apt. 310
+East Margaretstad, TN 96894. Please assist me with updating my account information.",residence,1
+87,181,2,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+88,177,4,1,0,"Hi, my team needs a new Dehumidifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+89,3,2,3,3,"Hi, I have applied for the sick leave on 2004-06-22 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+90,116,4,2,3,"Hi, I need $8,848.40 for my international business travel that is on 1990-09-27 please see the attached itinerary and approval. Thank you.",money date,0
+91,3,2,4,2,"Hi team, I want to avail the maternity benefit from 2017-05-02. My employee ID is 358-51-1268 and designation is Data scientist. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+92,185,1,7,0,"I recently purchased Ceiling Fan for the amount $1.36 on date 2020-11-21, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1996-12-03 from my home 9743 Mark Causeway
+Christopherbury, NH 51689 and initiate a refund to my credit card 4688330517987048.",product_name money date date residence credit_card_number,1
+93,184,4,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2007-04-06. The leave shown are less. Please resolve the issue.",date,0
+94,178,4,7,3,"Hi, I have a need of Domestic Robot in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+95,9,3,0,3,Hi team I want to access http://www.brown.net/ website for research purpose kindly remove the site from the proxy. My employee id is 738-48-2675 and my profile is Charity fundraiser.,url ssn job,1
+96,38,3,0,2,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+97,121,0,7,2,"Hi, I have a need of Humidifier in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+98,160,4,1,1,"I made a payment of $2.57 for my account on 1984-04-15, but it has not been credited yet. The payment was made using my credit card 2720942838134540. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is jharmon@gmail.com and phone number is 9646840796462",money date credit_card_number mail phone_number,1
+99,191,0,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+100,36,2,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Port Shawnland.,city,0
+101,93,0,5,2,"Hi,I am Karen Decker and I work in Mack, Doyle and Davis. My employee ID is EMP080-70-8174. 
+I am having trouble with health account, my userid is anthony10 and amount was $3,691.37. 
+My postal code is 58381. My country of residence is 41419 Jimenez Falls
+Jamesborough, DE 54757. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+102,77,4,1,2,"Hi,I am Robert Kennedy and my employee ID is EMP863-39-2936. 
+I am having trouble with my hardware claim, my expense amount was $760.61 for reimbursement. 
+My other details such as designation is Database administrator, userid javier39 and email is williamsjohn@yahoo.com.",name ssn money job username mail,1
+103,37,0,1,2,"I made a payment of $3,745.81 for my account on 1976-05-25, but it has not been credited yet. The payment was made using my credit card 580845101311. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is oacosta@yahoo.com and phone number is 1981518296528",money date credit_card_number mail phone_number,1
+104,172,1,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Maryfort.,city,0
+105,6,4,0,1,"Hi team, I am not able to run Cornerstone in my system due to internal error. Please see the attached error and resolve the issue",software,0
+106,144,2,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Jessicahaven.,city,0
+107,80,2,1,2,"I noticed unauthorized transactions on my credit card statement for the amount of $5,182.72 on 2020-07-29. The transactions are listed as Gay-Martinez. I did not authorize these transactions and would like them to be reversed immediately to my credit card 3519401375482740.",money date company credit_card_number,1
+108,172,1,6,1,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+109,11,4,2,1,"Hi,I am Mrs. Carrie Hodge MD and my employee ID is EMP820-94-4287. 
+I am having trouble with my travel claim, my expense amount was $45.59 for reimbursement. 
+My other details such as email is michael21@hotmail.com and postal code is 38417 and account number is DCZU88701415328260. 
+Please look into matter asap. My place of residence is 44657 Daniel Forge Apt. 830
+East Stephaniebury, ID 26300.",name ssn money mail zip_code bank_account_number address,1
+110,73,3,3,2,"Hi team, I am Michelle Booker, employee id 052-68-6312. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+111,90,4,2,3,"Dear team, I am shifting to West Hannahshire from South Marieland due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+112,120,2,3,3,"Hi, I have applied for the sick leave on 1974-03-31 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+113,190,3,5,3,"Hi,I am Andrea Wade and I work in Scott-Thornton. My employee ID is EMP652-20-0353. 
+I am having trouble with health account, my userid is scottreynolds and amount was $5.24. 
+My postal code is 06038. My country of residence is 541 Turner Mews
+Grimeshaven, AZ 97374. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+114,52,2,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+115,34,0,2,1,"Hi,I am Lynn Ward and my employee ID is EMP736-46-9742. 
+I am having trouble with my travel claim, my expense amount was $0.19 for reimbursement.
+ My other details such as designation is Training and development officer and email is rayshane@gmail.com. 
+The payment was done with given credit card number 373942364864654 and credit card type VISA 16 digit.",name ssn money job mail credit_card_number cc_provider,1
+116,107,3,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+117,33,2,1,3,"Hi, I need a corporate credit card for my international travel with the $5.50. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+118,47,1,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+119,93,0,7,1,"I am experiencing technical issues with Freezer. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username anthony10, Email andrew62@yahoo.com.",product_name username mail,1
+120,1,4,0,3,"Hi team, I want to upgrade the Python for my project requirements. Kidly do the needful.",software,0
+121,32,4,2,3,"Hi, I need $70.41 for my international business travel that is on 1990-05-27 please see the attached itinerary and approval. Thank you.",money date,0
+122,75,1,3,1,"Hi, I have applied for the sick leave on 1970-06-04 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+123,56,2,7,2,"Hi, I have a need of Dryer in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+124,29,3,1,3,"Hi, my team needs a new Sewing Machine for the project kindly help us to come up with the quote for the said product.",product_name,0
+125,29,3,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2006-05-09. The leave shown are less. Please resolve the issue.",date,0
+126,187,3,2,3,"Dear team, I am shifting to Bassbury from East Denise due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+127,162,1,6,3,"Hi, I have been logged out of my account and cannot login back. my username is jeremygonzalez. Please resolve it.",username,0
+128,165,2,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+129,170,1,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+130,138,3,3,3,"Hi, I have applied for the sick leave on 1997-09-08 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+131,159,2,2,3,"Hi, I need $639.91 for my international business travel that is on 1972-12-24 please see the attached itinerary and approval. Thank you.",money date,0
+132,156,3,2,3,"Hi,I am Curtis Smith and my employee ID is EMP006-74-9663. 
+I am having trouble with my travel claim, my expense amount was $54.45 for reimbursement.
+ My other details such as designation is Aid worker and email is volson@yahoo.com. 
+The payment was done with given credit card number 676177642755 and credit card type American Express.",name ssn money job mail credit_card_number cc_provider,1
+133,191,0,2,2,"Dear team, I am shifting to Kennethborough from West Amy due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+134,138,3,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+135,89,0,3,3,"Hi, I have applied for the sick leave on 1971-10-15 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+136,144,2,0,3,"Hi, I want the installation of python package pandas. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+137,148,0,4,2,"Hi Team, can you please confirm whether on the 1981-10-09 we have a vacation or not as in my state it is a regional festival.",date,0
+138,152,1,7,1,"Hi, I have a need of Freezer in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+139,19,4,3,1,"Hi team, my be leave balance shown in the system is not correct as of 1991-10-08. The leave shown are less. Please resolve the issue.",date,0
+140,155,1,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+141,13,0,1,3,"I made a payment of $3,009.46 for my account on 2014-04-15, but it has not been credited yet. The payment was made using my credit card 5201326467558685. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is scottbrandon@yahoo.com and phone number is 5848853520594",money date credit_card_number mail phone_number,1
+142,131,4,0,2,"Hi team, I am not able to run Dropbox in my system due to internal error. Please see the attached error and resolve the issue",software,0
+143,120,2,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 3088 Jessica Roads Apt. 485
+West Jodi, IL 42392. Please assist me with updating my account information.",residence,1
+144,106,1,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+145,98,3,6,1,"Hi, I have been logged out of my account and cannot login back. my username is craighall. Please resolve it.",username,0
+146,71,0,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1971-02-20. The leave shown are less. Please resolve the issue.",date,0
+147,144,2,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+148,176,4,6,3,"Hi, I have been logged out of my account and cannot login back. my username is alexis28. Please resolve it.",username,0
+149,132,0,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+150,46,4,3,3,"Hi, I have applied for the sick leave on 1982-10-22 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+151,16,1,1,0,I noticed unauthorized transactions on my credit card statement for the amount of $806.40 on 1976-04-24. The transactions are listed as Rivera-Watkins. I did not authorize these transactions and would like them to be reversed immediately to my credit card 4238832131458376.,money date company credit_card_number,1
+152,51,1,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+153,191,0,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+154,66,0,5,3,"Hi,I am Robert Heath and I work in Lee-Green. My employee ID is EMP405-25-8013. 
+I am having trouble with health account, my userid is brodriguez and amount was $1.35. 
+My postal code is 27295. My country of residence is 60659 Amanda Junctions
+West Allen, AK 49830. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+155,80,2,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+156,52,2,3,3,"Hi team, I am Lisa Leach, employee id 852-73-7552. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+157,10,0,2,2,"Dear team, I am shifting to North Katieview from West Patrickville due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+158,40,1,7,3,"Hi team, I need the catalogue of available Refrigerator for purchase with the price listed. Please send me the catalogue.",product_name,0
+159,126,3,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+160,12,1,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+161,165,2,7,2,"I am experiencing technical issues with Garbage Disposal Unit. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username kayla09, Email beltranmichael@gmail.com.",product_name username mail,1
+162,5,0,4,3,Hi HR team I want to refer my friend for the Dispensing optician but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+163,192,1,3,2,"Hi, I have applied for the sick leave on 2018-05-07 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+164,197,2,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+165,192,1,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+166,27,3,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Lake Megan.,city,0
+167,90,4,2,3,"Hi,I am Jason Lucero and my employee ID is EMP383-06-2590. 
+I am having trouble with my travel claim, my expense amount was $79,512.78 for reimbursement. 
+My other details such as email is reillybarbara@gmail.com and postal code is 47585 and account number is OISM17146641605165. 
+Please look into matter asap. My place of residence is 09603 Felicia Pines
+Port Yolanda, NJ 13119.",name ssn money mail zip_code bank_account_number address,1
+168,73,3,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+169,43,3,7,1,"I am experiencing technical issues with Air Purifier. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username john44, Email byrdvictoria@gmail.com.",product_name username mail,1
+170,180,3,3,1,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+171,153,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+172,68,2,6,2,"I have recently moved and would like to update my account information with my new address. My new address is 1817 Ford Green Apt. 315
+New John, IL 16125. Please assist me with updating my account information.",residence,1
+173,143,1,6,3,"Hi, I have been logged out of my account and cannot login back. my username is cameron38. Please resolve it.",username,0
+174,70,1,7,1,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+175,21,2,3,3,"Hi, I have applied for the sick leave on 1988-01-23 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+176,122,3,7,3,"I am experiencing technical issues with Hair Dryer. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username mbrown, Email hessjeffery@yahoo.com.",product_name username mail,1
+177,31,1,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+178,40,1,4,1,"Hi Team, can you please confirm whether on the 2000-02-03 we have a vacation or not as in my state it is a regional festival.",date,0
+179,187,3,0,3,"hi team, I am Michael Rodriguez and my employee id is 416-55-8152. I need the installation of Autodesk for the development purpose. I have attached required approvals in the attachment. thank you.",name ssn software,1
+180,173,4,7,3,"I recently purchased Blender for the amount $60.60 on date 1990-01-19, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 2006-02-02 from my home 19457 Smith Garden Suite 143
+Catherineside, NV 24117 and initiate a refund to my credit card 6011119017816796.",product_name money date date residence credit_card_number,1
+181,142,3,2,2,"Hi,I am Allison Harrell and my employee ID is EMP235-51-3561. 
+I am having trouble with my travel claim, my expense amount was $97,666.92 for reimbursement.
+ My other details such as designation is Chief Technology Officer and email is alexelliott@gmail.com. 
+The payment was done with given credit card number 4511671620617 and credit card type JCB 16 digit.",name ssn money job mail credit_card_number cc_provider,1
+182,74,4,1,1,"Hi,I am Nathan Nichols and my employee ID is EMP611-59-9767. 
+I am having trouble with my hardware claim, my expense amount was $2.64 for reimbursement. 
+My other details such as designation is Paramedic, userid eddiemartin and email is samantha59@hotmail.com.",name ssn money job username mail,1
+183,123,0,3,2,"Hi, I have applied for the sick leave on 1997-07-15 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+184,150,3,7,2,"Hi team, I need the catalogue of available Air Conditioner for purchase with the price listed. Please send me the catalogue.",product_name,0
+185,37,0,0,3,Hi team I want to access https://www.church.com/ website for research purpose kindly remove the site from the proxy,url,0
+186,128,1,4,3,"Hi Team, can you please confirm whether on the 1974-02-20 we have a vacation or not as in my state it is a regional festival.",date,0
+187,84,1,6,3,"I am unable to log in to my account. My credentials are, username christina53, email hallbreanna@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+188,142,3,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+189,59,0,3,0,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+190,130,4,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+191,186,4,7,3,"Hi, I have a need of Dehumidifier in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+192,42,4,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+193,114,1,7,3,"Hi team, I need the catalogue of available Dryer for purchase with the price listed. Please send me the catalogue.",product_name,0
+194,148,0,0,2,"Hi team, I am not able to run Python in my system due to internal error. Please see the attached error and resolve the issue",software,0
+195,43,3,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+196,79,1,0,2,Hi team I want to access https://stewart.biz/ website for research purpose kindly remove the site from the proxy. My employee id is 273-40-0082 and my profile is Actuary.,url ssn job,1
+197,33,2,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Dianaland.,city,0
+198,110,3,1,0,"I noticed unauthorized transactions on my credit card statement for the amount of $44,863.29 on 1974-04-08. The transactions are listed as Ford-Barnes. I did not authorize these transactions and would like them to be reversed immediately to my credit card 6011091870957035.",money date company credit_card_number,1
+199,49,3,7,2,"I recently purchased Ceiling Fan for the amount $360.82 on date 2017-05-04, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 2017-08-10 from my home 902 Maureen Hollow
+New Daisybury, CT 57534 and initiate a refund to my credit card 6513127672227079.",product_name money date date residence credit_card_number,1
+200,167,1,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+201,150,3,5,2,"Hi,I am Tracie Rivera DVM and my employee ID is EMP057-09-4490 from Li PLC. 
+I am having trouble with health account, my National Health Scheme number is 057-09-4490 and amount was $3,957.81. 
+My other details such as email is amber50@gmail.com and postal code is 25787. 
+Please look into matter. My place of residence is 9996 Campbell Pass Suite 335
+Knoxberg, NC 47229.",name ssn company ssn money mail zip_code address,1
+202,100,1,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+203,160,4,2,3,"Dear team, I am shifting to Lake David from Gonzalezborough due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+204,99,1,7,2,"Hi team, I need the catalogue of available Vacuum Cleaner for purchase with the price listed. Please send me the catalogue.",product_name,0
+205,32,4,4,3,"Hi Team, I was wondering whether this Producer, television/film/video is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+206,131,4,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+207,70,1,2,2,"Hi, I need $21,099.62 for my international business travel that is on 1970-12-28 please see the attached itinerary and approval. Thank you.",money date,0
+208,187,3,2,1,"Dear team, I am shifting to Carrieport from Richchester due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+209,33,2,6,3,"Hi, I have been logged out of my account and cannot login back. my username is thomasdarrell. Please resolve it.",username,0
+210,124,4,2,3,"Hi,I am Tony Jones and my employee ID is EMP140-08-6651. 
+I am having trouble with my travel claim, my expense amount was $991.49 for reimbursement. 
+My other details such as email is ofernandez@yahoo.com and postal code is 32898 and account number is JXDI46927127001170. 
+Please look into matter asap. My place of residence is 51080 Daugherty Trail
+Jonmouth, MH 10663.",name ssn money mail zip_code bank_account_number address,1
+211,6,4,0,2,"Hi team, I want to upgrade the Acrobat Reader for my project requirements. Kidly do the needful.",software,0
+212,90,4,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+213,180,3,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+214,20,2,0,3,"Hi team, I am not able to run Acrobat Reader in my system due to internal error. Please see the attached error and resolve the issue",software,0
+215,84,1,3,3,"Hi, I have applied for the sick leave on 1998-01-15 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+216,114,1,2,3,"Hi, I need $7.01 for my international business travel that is on 1982-06-05 please see the attached itinerary and approval. Thank you.",money date,0
+217,14,3,0,3,"Hi, I need to the installation of Python for development purpose of my project.",software,0
+218,118,1,7,2,"Hi team, I need the catalogue of available Vacuum Cleaner for purchase with the price listed. Please send me the catalogue.",product_name,0
+219,95,2,4,3,"Hi Team, can you please confirm whether on the 2002-03-24 we have a vacation or not as in my state it is a regional festival.",date,0
+220,111,3,0,0,"Hi, I need to the installation of Intuit for development purpose of my project.",software,0
+221,197,2,4,3,"Hi Team, can you please confirm whether on the 1975-09-01 we have a vacation or not as in my state it is a regional festival.",date,0
+222,131,4,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+223,32,4,6,2,"Hi, I have been logged out of my account and cannot login back. my username is angelariley. Please resolve it.",username,0
+224,21,2,0,3,Hi team I want to access http://www.brown.org/ website for research purpose kindly remove the site from the proxy,url,0
+225,115,4,5,3,"Hi, I had applied for the claim on 1974-09-29. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+226,24,1,5,1,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Marystad.,city,0
+227,126,3,6,3,"Hi, I have been logged out of my account and cannot login back. my username is mharrison. Please resolve it.",username,0
+228,134,4,0,3,"Hi, I need to the installation of Procore for development purpose of my project.",software,0
+229,173,4,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+230,167,1,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+231,96,3,2,2,"Dear team, I am shifting to South Kennethchester from Robertview due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+232,97,3,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+233,102,4,2,2,"Hi, I need $4,283.35 for my international business travel that is on 2012-11-16 please see the attached itinerary and approval. Thank you.",money date,0
+234,119,3,4,3,"Hi team, I want to avail the maternity benefit from 1999-02-14. My employee ID is 113-14-3982 and designation is Chartered certified accountant. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+235,185,1,4,3,"Hi Team, can you please confirm whether on the 1994-03-30 we have a vacation or not as in my state it is a regional festival.",date,0
+236,17,2,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+237,159,2,3,3,"Hi, I have applied for the sick leave on 2010-02-06 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+238,75,1,5,2,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+239,86,3,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+240,82,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2013-10-18. The leave shown are less. Please resolve the issue.",date,0
+241,8,1,2,1,"Dear team, I am shifting to North Deborahburgh from South Erikaborough due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+242,92,3,5,3,"Hi,I am Jason Martinez and I work in Kane-Anderson. My employee ID is EMP018-12-1206. 
+I am having trouble with health account, my userid is brian74 and amount was $7.68. 
+My postal code is 19368. My country of residence is 0130 Adkins Avenue Apt. 042
+Fullerfort, PA 48774. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+243,168,3,2,3,"Hi,I am Jeremy Acosta and my employee ID is EMP889-86-5636. 
+I am having trouble with my travel claim, my expense amount was $836.59 for reimbursement. 
+My other details such as email is destiny49@yahoo.com and postal code is 80515 and account number is OFFO56778991386240. 
+Please look into matter asap. My place of residence is 316 Sandra Ridges Suite 468
+East Davidville, NH 49981.",name ssn money mail zip_code bank_account_number address,1
+244,45,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+245,103,0,4,3,"Hi Team, I was wondering whether this Technical brewer is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+246,75,1,3,2,"Hi, I have applied for the sick leave on 1984-01-23 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+247,180,3,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+248,30,1,6,2,"Hi, I have been logged out of my account and cannot login back. my username is orrmichael. Please resolve it.",username,0
+249,193,0,4,0,Hi HR team I want to refer my friend for the Optometrist but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+250,48,2,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 3713 Travis Roads Apt. 990
+Lake Rhonda, HI 67487. Please assist me with updating my account information.",residence,1
+251,51,1,6,2,"Hi, I have been logged out of my account and cannot login back. my username is jamesfernandez. Please resolve it.",username,0
+252,87,2,5,3,"Hi, I had applied for the claim on 1982-04-11. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+253,50,0,7,2,"I recently purchased Vacuum Cleaner for the amount $2.94 on date 1997-03-04, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1991-12-10 from my home PSC 7874, Box 3521
+APO AP 93373 and initiate a refund to my credit card 6582223799574265.",product_name money date date residence credit_card_number,1
+254,51,1,4,3,"Hi team, I want to avail the maternity benefit from 1970-06-05. My employee ID is 832-18-5339 and designation is Teacher, early years/pre. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+255,9,3,3,3,"Hi team, I want a leave from 1976-02-19 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Stacey Reed, designation Charity fundraiser",date name job,1
+256,127,2,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+257,41,3,2,1,"Hi, I need $724.74 for my international business travel that is on 1975-04-26 please see the attached itinerary and approval. Thank you.",money date,0
+258,67,4,7,3,"I am experiencing technical issues with Hair Dryer. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username sarahpowers, Email shannonolson@hotmail.com.",product_name username mail,1
+259,164,0,3,3,"Hi, I have applied for the sick leave on 1998-06-30 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+260,195,2,7,3,"I am experiencing technical issues with Garbage Disposal Unit. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username reidkevin, Email wrightjudy@hotmail.com.",product_name username mail,1
+261,45,3,2,2,"Hi, I need $4.21 for my international business travel that is on 2008-04-29 please see the attached itinerary and approval. Thank you.",money date,0
+262,98,3,4,1,"Hi I am William Kim DDS, currently working as Television floor manager. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+263,122,3,4,3,Hi HR team I want to refer my friend for the Technical sales engineer but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+264,178,4,2,1,"Dear team, I am shifting to Escobarbury from Karenshire due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+265,65,4,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+266,185,1,4,3,"Hi Team, can you please confirm whether on the 1970-11-12 we have a vacation or not as in my state it is a regional festival.",date,0
+267,58,1,2,3,"Hi, I need $5,660.27 for my international business travel that is on 2013-07-20 please see the attached itinerary and approval. Thank you.",money date,0
+268,161,4,7,3,"Hi team, I need the catalogue of available Humidifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+269,38,3,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2008-11-26. The leave shown are less. Please resolve the issue.",date,0
+270,177,4,1,3,"I made a payment of $49.12 for my account on 2012-01-25, but it has not been credited yet. The payment was made using my credit card 4859156356891923. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is ohogan@yahoo.com and phone number is 6300875852691",money date credit_card_number mail phone_number,1
+271,136,0,5,0,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+272,123,0,4,0,"Hi I am Sierra Brown, currently working as Soil scientist. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+273,15,4,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+274,33,2,7,3,"Hi, I have a need of Blender in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+275,95,2,0,3,"Hi team, I am not able to run Autodesk in my system due to internal error. Please see the attached error and resolve the issue",software,0
+276,184,4,7,1,"Hi team, I need the catalogue of available Vacuum Cleaner for purchase with the price listed. Please send me the catalogue.",product_name,0
+277,36,2,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+278,37,0,0,2,"Hi, I want the installation of python package numpy. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+279,108,1,3,3,"Hi, I have applied for the sick leave on 1988-02-03 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+280,175,4,3,0,"Hi team, I want a leave from 2009-09-21 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Amanda Martinez, designation Telecommunications researcher",date name job,1
+281,88,4,5,3,"Hi, I had applied for the claim on 1978-08-04. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+282,44,4,0,0,"Hi team, I want to upgrade the Salesforce for my project requirements. Kidly do the needful.",software,0
+283,109,1,6,3,"I am unable to log in to my account. My credentials are, username michael06, email heather61@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+284,82,2,0,3,"Hi, I need to the installation of Python for development purpose of my project.",software,0
+285,1,4,2,3,"Hi, I need $95.55 for my international business travel that is on 2002-02-02 please see the attached itinerary and approval. Thank you.",money date,0
+286,133,2,2,2,"Dear team, I am shifting to Chadside from Amberview due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+287,197,2,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+288,31,1,7,2,"Hi team, I need the catalogue of available Dehumidifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+289,31,1,4,2,"Hi Team, can you please confirm whether on the 1992-11-26 we have a vacation or not as in my state it is a regional festival.",date,0
+290,116,4,7,3,"Hi, I have a need of Freezer in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+291,117,0,2,3,"Dear team, I am shifting to Barrerachester from Mooreshire due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+292,157,2,6,0,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+293,148,0,2,2,"Hi, I need $1,244.22 for my international business travel that is on 2015-01-05 please see the attached itinerary and approval. Thank you.",money date,0
+294,120,2,0,2,"Hi team, I am not able to run BlackLine in my system due to internal error. Please see the attached error and resolve the issue",software,0
+295,189,0,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2000-08-08. The leave shown are less. Please resolve the issue.",date,0
+296,121,0,2,2,"Hi, I need $2.22 for my international business travel that is on 1985-05-14 please see the attached itinerary and approval. Thank you.",money date,0
+297,78,1,2,3,"Hi, I need $75,163.75 for my international business travel that is on 2010-07-02 please see the attached itinerary and approval. Thank you.",money date,0
+298,39,3,2,3,"Dear team, I am shifting to New Brandon from Lake Gregside due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+299,16,1,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+300,125,2,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+301,25,0,7,3,"Hi, I have a need of Air Conditioner in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+302,105,3,4,3,"Hi team, I want to avail the maternity benefit from 1998-01-02. My employee ID is 034-11-1047 and designation is Sales executive. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+303,94,2,5,2,"Hi,I am Vincent Underwood and my employee ID is EMP529-32-4432 from Young Group. 
+I am having trouble with health account, my National Health Scheme number is 529-32-4432 and amount was $72.30. 
+My other details such as email is solomonpatricia@yahoo.com and postal code is 43371. 
+Please look into matter. My place of residence is 944 Mendez Turnpike Suite 331
+Aprilhaven, GU 34464.",name ssn company ssn money mail zip_code address,1
+304,192,1,5,3,"Hi, I had applied for the claim on 1998-03-07. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+305,69,2,5,2,"Hi,I am Daniel Santiago and I work in Flores, Mack and Acosta. My employee ID is EMP009-16-6033. 
+I am having trouble with health account, my userid is monroebryan and amount was $1.39. 
+My postal code is 52246. My country of residence is 07639 Reed Prairie Apt. 761
+East Allenburgh, NH 64981. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+306,70,1,5,0,"Hi, I had applied for the claim on 2013-10-17. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+307,148,0,4,3,"Hi I am Paula Bird, currently working as Engineer, drilling. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+308,131,4,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+309,106,1,6,3,"I am unable to log in to my account. My credentials are, username perezrebekah, email luisjohnson@yahoo.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+310,89,0,1,2,"Hi, I need a corporate credit card for my international travel with the $81,767.75. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+311,8,1,3,0,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+312,128,1,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+313,179,1,6,3,"I am unable to log in to my account. My credentials are, username james29, email amber56@hotmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+314,39,3,4,3,Hi HR team I want to refer my friend for the Agricultural engineer but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+315,58,1,2,2,"Hi, I need $6,214.01 for my international business travel that is on 2013-07-02 please see the attached itinerary and approval. Thank you.",money date,0
+316,138,3,6,3,"Hi, I have been logged out of my account and cannot login back. my username is frenchwalter. Please resolve it.",username,0
+317,79,1,3,2,"Hi team, I am Jared Davis, employee id 273-40-0082. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+318,65,4,7,3,"Hi, I have a need of Ceiling Fan in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+319,150,3,3,2,"Hi, I have applied for the sick leave on 2004-08-02 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+320,189,0,6,3,"Hi, I have been logged out of my account and cannot login back. my username is vbullock. Please resolve it.",username,0
+321,65,4,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+322,163,4,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+323,3,2,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1980-08-01. The leave shown are less. Please resolve the issue.",date,0
+324,104,4,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+325,193,0,2,2,"Dear team, I am shifting to South Anthony from Theresafort due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+326,190,3,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+327,115,4,4,0,"Hi Team, I was wondering whether this General practice doctor is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+328,113,1,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2011-04-30. The leave shown are less. Please resolve the issue.",date,0
+329,139,2,5,2,"Hi, I had applied for the claim on 1976-09-21. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+330,20,2,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Kimberlyburgh.,city,0
+331,96,3,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2009-11-13. The leave shown are less. Please resolve the issue.",date,0
+332,37,0,2,3,"Hi, I need $4,573.41 for my international business travel that is on 2017-03-14 please see the attached itinerary and approval. Thank you.",money date,0
+333,26,2,7,3,"Hi, I have a need of Domestic Robot in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+334,1,4,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+335,151,1,4,2,"Hi Team, I was wondering whether this Editor, magazine features is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+336,30,1,1,2,"Hi, my team needs a new Waffle Iron for the project kindly help us to come up with the quote for the said product.",product_name,0
+337,198,2,2,3,"Dear team, I am shifting to Russoville from West Davidmouth due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+338,61,0,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+339,139,2,4,2,"Hi Team, I was wondering whether this Call centre manager is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+340,147,2,2,3,"Hi, I need $8,969.17 for my international business travel that is on 1972-05-20 please see the attached itinerary and approval. Thank you.",money date,0
+341,52,2,6,2,"I am unable to log in to my account. My credentials are, username nicole76, email patriciawolfe@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+342,143,1,1,1,"Hi,I am Jesse Campbell and my employee ID is EMP257-60-5983. 
+I am having trouble with my hardware claim, my expense amount was $190.36 for reimbursement. 
+My other details such as designation is Engineer, water, userid cameron38 and email is umoore@yahoo.com.",name ssn money job username mail,1
+343,142,3,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+344,49,3,7,3,"Hi, I have a need of Oven in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+345,97,3,7,0,"Hi, I have a need of Microwave in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+346,151,1,4,2,"Hi Team, I was wondering whether this Editor, magazine features is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+347,136,0,2,3,"Hi, I need $52,807.65 for my international business travel that is on 2016-01-11 please see the attached itinerary and approval. Thank you.",money date,0
+348,57,2,1,3,"I made a payment of $65.48 for my account on 1982-04-01, but it has not been credited yet. The payment was made using my credit card 4191840055012553. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is rclements@hotmail.com and phone number is 6287832359613",money date credit_card_number mail phone_number,1
+349,26,2,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Jeffery.,city,0
+350,118,1,0,3,"hi team, I am James Young and my employee id is 622-27-3218. I need the installation of Acrobat Reader for the development purpose. I have attached required approvals in the attachment. thank you.",name ssn software,1
+351,57,2,0,3,"Hi team I want to access http://www.rasmussen-smith.biz/ website for research purpose kindly remove the site from the proxy. My employee id is 784-57-5337 and my profile is Scientist, research (maths).",url ssn job,1
+352,90,4,3,2,"Hi team, I want a leave from 2005-06-28 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Jason Lucero, designation Radio producer",date name job,1
+353,198,2,2,3,"Hi, I need $9,642.98 for my international business travel that is on 1973-03-07 please see the attached itinerary and approval. Thank you.",money date,0
+354,72,1,5,3,"Hi,I am Whitney Marshall and I work in Jones and Sons. My employee ID is EMP195-70-1666. 
+I am having trouble with health account, my userid is dylan68 and amount was $2.20. 
+My postal code is 38195. My country of residence is 4424 Ian Lock Apt. 176
+Lake Luis, SC 45184. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+355,183,2,0,2,Hi team I want to access http://payne-roth.info/ website for research purpose kindly remove the site from the proxy. My employee id is 404-07-0180 and my profile is Conference centre manager.,url ssn job,1
+356,15,4,4,3,"Hi Team, I was wondering whether this Buyer, industrial is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+357,19,4,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+358,158,1,2,2,"Hi,I am Michael Decker and my employee ID is EMP772-55-7782. 
+I am having trouble with my travel claim, my expense amount was $28.08 for reimbursement. 
+My other details such as email is gonzaleswanda@yahoo.com and postal code is 28728 and account number is XEFT36393899997917. 
+Please look into matter asap. My place of residence is 872 Kristen Court Suite 933
+Joneston, GU 54810.",name ssn money mail zip_code bank_account_number address,1
+359,141,4,5,1,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+360,105,3,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+361,10,0,3,3,"Hi, I have applied for the sick leave on 1993-08-20 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+362,28,0,6,1,"Hi, I have been logged out of my account and cannot login back. my username is rachel78. Please resolve it.",username,0
+363,23,2,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Markchester.,city,0
+364,52,2,6,2,"Hi, I have been logged out of my account and cannot login back. my username is nicole76. Please resolve it.",username,0
+365,152,1,1,0,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+366,193,0,7,2,"Hi team, I need the catalogue of available Microwave for purchase with the price listed. Please send me the catalogue.",product_name,0
+367,163,4,0,2,"Hi team, I am not able to run Dropbox in my system due to internal error. Please see the attached error and resolve the issue",software,0
+368,171,3,2,1,"Dear team, I am shifting to Tammymouth from Williamsfort due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+369,145,3,2,2,"Hi,I am Jessica White and my employee ID is EMP104-56-8296. 
+I am having trouble with my travel claim, my expense amount was $51.99 for reimbursement. 
+My other details such as email is karenadams@hotmail.com and postal code is 49034 and account number is QMMQ51094181883138. 
+Please look into matter asap. My place of residence is 9521 David Inlet
+Rosetown, CO 85426.",name ssn money mail zip_code bank_account_number address,1
+370,60,4,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+371,27,3,4,2,Hi HR team I want to refer my friend for the Administrator but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+372,106,1,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+373,82,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2019-04-09. The leave shown are less. Please resolve the issue.",date,0
+374,26,2,2,3,"Hi, I need $35,816.91 for my international business travel that is on 2018-09-02 please see the attached itinerary and approval. Thank you.",money date,0
+375,48,2,4,2,"Hi team, I want to avail the maternity benefit from 2014-12-04. My employee ID is 774-35-5965 and designation is Ergonomist. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+376,45,3,7,2,"Hi, I have a need of Microwave in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+377,111,3,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+378,0,2,5,3,"Hi, I had applied for the claim on 2018-09-28. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+379,86,3,7,2,"Hi, I have a need of Humidifier in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+380,11,4,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+381,104,4,4,3,"Hi Team, I was wondering whether this Audiological scientist is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+382,162,1,0,2,Hi team I want to access https://lewis.info/ website for research purpose kindly remove the site from the proxy,url,0
+383,199,0,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+384,183,2,0,1,Hi team I want to access https://www.rose.net/ website for research purpose kindly remove the site from the proxy,url,0
+385,158,1,5,1,"Hi, I had applied for the claim on 2021-10-30. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+386,81,4,2,2,"Dear team, I am shifting to Port Clayton from New Lisachester due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+387,132,0,3,3,"Hi team, I am Jessica Baxter, employee id 779-14-4039. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+388,156,3,0,3,"Hi team, I want to upgrade the Wolfrom for my project requirements. Kidly do the needful.",software,0
+389,81,4,4,3,"Hi Team, I was wondering whether this Advertising art director is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+390,128,1,2,2,"Hi, I need $26,407.74 for my international business travel that is on 1990-03-31 please see the attached itinerary and approval. Thank you.",money date,0
+391,99,1,5,0,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+392,110,3,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+393,150,3,2,3,"Hi, I need $4.76 for my international business travel that is on 1975-09-05 please see the attached itinerary and approval. Thank you.",money date,0
+394,56,2,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+395,39,3,0,2,"Hi team, I want to upgrade the Dropbox for my project requirements. Kidly do the needful.",software,0
+396,193,0,5,3,"Hi, I had applied for the claim on 1982-05-21. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+397,68,2,2,3,"Dear team, I am shifting to Andreaborough from Meyersside due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+398,94,2,0,2,"Hi team I want to access https://marquez-flores.org/ website for research purpose kindly remove the site from the proxy. My employee id is 529-32-4432 and my profile is Therapist, drama.",url ssn job,1
+399,12,1,2,2,"Hi,I am Kenneth Dixon and my employee ID is EMP206-65-5723. 
+I am having trouble with my travel claim, my expense amount was $474.80 for reimbursement. 
+My other details such as email is zachary18@hotmail.com and postal code is 08661 and account number is IHMF65689522255114. 
+Please look into matter asap. My place of residence is 35320 Andrew Forest
+Lake Angelachester, WV 38710.",name ssn money mail zip_code bank_account_number address,1
+400,117,0,7,1,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+401,10,0,4,2,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 123-29-7879. Please initiate the recruitment under my project. thanks",ssn,1
+402,155,1,6,0,"Hi, I have been logged out of my account and cannot login back. my username is christopher08. Please resolve it.",username,0
+403,189,0,4,3,"Hi Team, I was wondering whether this Mental health nurse is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+404,5,0,2,2,"Dear team, I am shifting to East Michaelburgh from Nicolefurt due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+405,24,1,2,2,"Hi, I need $41.54 for my international business travel that is on 2020-12-14 please see the attached itinerary and approval. Thank you.",money date,0
+406,77,4,3,2,"Hi team, I am Robert Kennedy, employee id 863-39-2936. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+407,129,0,2,3,"Hi,I am Erin Ware and my employee ID is EMP726-04-1926. 
+I am having trouble with my travel claim, my expense amount was $77.68 for reimbursement.
+ My other details such as designation is IT technical support officer and email is bakerkevin@hotmail.com. 
+The payment was done with given credit card number 4815246850312147 and credit card type VISA 16 digit.",name ssn money job mail credit_card_number cc_provider,1
+408,81,4,6,1,"I am unable to log in to my account. My credentials are, username johncastaneda, email matthew55@hotmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+409,102,4,1,2,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+410,27,3,2,2,"Dear team, I am shifting to Welchville from South James due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+411,105,3,1,2,"Hi, I need a corporate credit card for my international travel with the $6.31. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+412,59,0,3,0,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+413,10,0,4,2,"Hi Team, can you please confirm whether on the 2008-08-06 we have a vacation or not as in my state it is a regional festival.",date,0
+414,61,0,1,2,"I noticed unauthorized transactions on my credit card statement for the amount of $9,997.65 on 1983-12-19. The transactions are listed as Perez, Williams and Martinez. I did not authorize these transactions and would like them to be reversed immediately to my credit card 6011362039267297.",money date company credit_card_number,1
+415,77,4,6,3,"Hi, I have been logged out of my account and cannot login back. my username is javier39. Please resolve it.",username,0
+416,107,3,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+417,134,4,3,3,"Hi team, I want a leave from 1991-11-19 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:James Marshall, designation Legal executive",date name job,1
+418,133,2,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Jameshaven.,city,0
+419,166,0,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city North Desireechester.,city,0
+420,8,1,4,2,Hi HR team I want to refer my friend for the Early years teacher but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+421,47,1,7,2,"Hi, I have a need of Hair Dryer in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+422,198,2,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+423,67,4,2,2,"Dear team, I am shifting to New Autumn from Haydenfort due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+424,188,1,0,2,"Hi team, I am not able to run Acrobat Reader in my system due to internal error. Please see the attached error and resolve the issue",software,0
+425,145,3,5,2,"Hi,I am Jessica White and my employee ID is EMP104-56-8296 from Humphrey, Smith and Zuniga. 
+I am having trouble with health account, my National Health Scheme number is 104-56-8296 and amount was $12.94. 
+My other details such as email is karenadams@hotmail.com and postal code is 49034. 
+Please look into matter. My place of residence is 9521 David Inlet
+Rosetown, CO 85426.",name ssn company ssn money mail zip_code address,1
+426,139,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+427,99,1,4,3,"Hi Team, I was wondering whether this Surveyor, hydrographic is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+428,161,4,0,3,Hi team I want to access https://tran.info/ website for research purpose kindly remove the site from the proxy. My employee id is 325-83-9625 and my profile is Claims inspector/assessor.,url ssn job,1
+429,44,4,3,1,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+430,135,3,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Robertburgh.,city,0
+431,101,0,1,2,"Hi, I need a corporate credit card for my international travel with the $8,004.08. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+432,124,4,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+433,137,2,3,2,"Hi team, my be leave balance shown in the system is not correct as of 2007-04-12. The leave shown are less. Please resolve the issue.",date,0
+434,154,2,6,1,"Hi, I have been logged out of my account and cannot login back. my username is pmarshall. Please resolve it.",username,0
+435,88,4,3,2,"Hi team, my be leave balance shown in the system is not correct as of 2016-02-11. The leave shown are less. Please resolve the issue.",date,0
+436,190,3,7,3,"Hi team, I need the catalogue of available Ceiling Fan for purchase with the price listed. Please send me the catalogue.",product_name,0
+437,106,1,7,2,"Hi, I have a need of Oven in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+438,102,4,1,3,"Hi, I need a corporate credit card for my international travel with the $9,218.87. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+439,160,4,1,3,"Hi, I need a corporate credit card for my international travel with the $63.49. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+440,55,0,4,3,"Hi Team, I was wondering whether this Database administrator is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+441,116,4,7,3,"I recently purchased Oven for the amount $79.29 on date 1992-09-13, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1988-08-01 from my home USNS Suarez
+FPO AA 64960 and initiate a refund to my credit card 213135987298061.",product_name money date date residence credit_card_number,1
+442,124,4,0,3,"Hi, I need to the installation of Qualtrics for development purpose of my project.",software,0
+443,116,4,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+444,147,2,1,3,"Hi, my team needs a new Air Purifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+445,42,4,4,3,Hi HR team I want to refer my friend for the English as a second language teacher but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+446,112,2,0,2,"Hi, I need to the installation of Jira for development purpose of my project.",software,0
+447,146,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+448,12,1,6,1,"I have recently moved and would like to update my account information with my new address. My new address is PSC 4388, Box 7289
+APO AP 08661. Please assist me with updating my account information.",residence,1
+449,103,0,4,2,Hi HR team I want to refer my friend for the Technical brewer but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+450,188,1,1,1,"Hi, my team needs a new Refrigerator for the project kindly help us to come up with the quote for the said product.",product_name,0
+451,127,2,3,2,"Hi team, my be leave balance shown in the system is not correct as of 2012-09-03. The leave shown are less. Please resolve the issue.",date,0
+452,111,3,7,3,"I am experiencing technical issues with Dryer. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username holtjoshua, Email dawn17@yahoo.com.",product_name username mail,1
+453,128,1,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+454,77,4,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+455,172,1,3,2,"Hi, I have applied for the sick leave on 2005-11-27 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+456,87,2,2,2,"Hi,I am Christopher Wolf and my employee ID is EMP495-27-2560. 
+I am having trouble with my travel claim, my expense amount was $71.57 for reimbursement. 
+My other details such as email is uhoffman@yahoo.com and postal code is 17569 and account number is CEQY69861371462373. 
+Please look into matter asap. My place of residence is 5974 Ruiz Mountains Apt. 967
+Lake Andrea, IN 34164.",name ssn money mail zip_code bank_account_number address,1
+457,159,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+458,8,1,4,2,"Hi Team, I was wondering whether this Early years teacher is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+459,114,1,5,1,"Hi, I had applied for the claim on 2019-10-22. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+460,173,4,5,3,"Hi,I am Karen Perkins and from 662 Ashley Estate Apt. 648
+Lake Andrewburgh, PR 87793. 
+I am having trouble with my medical claim, my employee ID is EMP544-17-6644 and amount was $4,369.28. 
+The payment was made through my credit card 6011964715688496. 
+My other details such as designation is Broadcast journalist email is patriciaconrad@hotmail.com and postal code is 24117. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+461,92,3,4,2,Hi HR team I want to refer my friend for the Interior and spatial designer but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+462,153,3,4,3,"Hi Team, I was wondering whether this Local government officer is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+463,153,3,5,2,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+464,63,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 1994-12-24. The leave shown are less. Please resolve the issue.",date,0
+465,186,4,7,3,"I am experiencing technical issues with Air Conditioner. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username riveramark, Email bsantiago@yahoo.com.",product_name username mail,1
+466,124,4,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Kaylamouth.,city,0
+467,164,0,5,2,"Hi, I had applied for the claim on 2012-01-06. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+468,96,3,1,3,I noticed unauthorized transactions on my credit card statement for the amount of $2.93 on 1978-10-18. The transactions are listed as Fisher and Sons. I did not authorize these transactions and would like them to be reversed immediately to my credit card 370701658408732.,money date company credit_card_number,1
+469,24,1,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 753 Joshua Crossing Suite 749
+West Tammy, FM 91438. Please assist me with updating my account information.",residence,1
+470,164,0,3,2,"Hi team, I am Christopher Robbins, employee id 523-85-5716. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+471,159,2,7,3,"Hi, I have a need of Oven in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+472,139,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 1970-05-10. The leave shown are less. Please resolve the issue.",date,0
+473,183,2,1,3,"Hi, I need a corporate credit card for my international travel with the $130.29. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+474,19,4,2,2,"Dear team, I am shifting to Lake Kelly from Port Christopherport due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+475,143,1,4,2,"Hi Team, I was wondering whether this Engineer, water is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+476,85,4,1,3,"Hi, my team needs a new Air Purifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+477,183,2,0,3,Hi team I want to access https://dalton.com/ website for research purpose kindly remove the site from the proxy,url,0
+478,74,4,5,2,"Hi, I had applied for the claim on 1987-03-05. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+479,115,4,5,2,"Hi,I am Ashley Doyle and I work in Schneider Ltd. My employee ID is EMP473-68-9391. 
+I am having trouble with health account, my userid is kenneth54 and amount was $56,754.64. 
+My postal code is 60150. My country of residence is 99996 Parker Port Apt. 933
+Port Samantha, VI 01433. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+480,132,0,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+481,144,2,2,3,"Hi, I need $35,678.45 for my international business travel that is on 2012-02-17 please see the attached itinerary and approval. Thank you.",money date,0
+482,46,4,1,2,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+483,108,1,6,2,"I am unable to log in to my account. My credentials are, username paulabentley, email marypearson@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+484,83,3,7,2,"I am experiencing technical issues with Sewing Machine. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username garciaandrew, Email qmckinney@gmail.com.",product_name username mail,1
+485,51,1,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1989-07-17. The leave shown are less. Please resolve the issue.",date,0
+486,14,3,6,2,"I have recently moved and would like to update my account information with my new address. My new address is 24886 Kimberly Union
+West Lindaberg, MN 85853. Please assist me with updating my account information.",residence,1
+487,149,2,7,3,"Hi team, I need the catalogue of available Humidifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+488,170,1,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+489,156,3,3,2,"Hi team, I want a leave from 2009-07-16 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Curtis Smith, designation Aid worker",date name job,1
+490,2,4,3,3,"Hi, I have applied for the sick leave on 2016-06-15 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+491,140,4,4,2,"Hi Team, I was wondering whether this Politician's assistant is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+492,155,1,4,3,"Hi team, I want to avail the maternity benefit from 1991-11-05. My employee ID is 064-66-5389 and designation is Midwife. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+493,87,2,6,3,"I am unable to log in to my account. My credentials are, username christophercarr, email uhoffman@yahoo.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+494,175,4,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+495,152,1,4,3,"Hi HR team I want to refer my friend for the Surveyor, mining but I cannot access the referral site. Can you please accept this referral through this mail.",job,0
+496,66,0,1,1,"Hi, my team needs a new Heater for the project kindly help us to come up with the quote for the said product.",product_name,0
+497,18,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+498,134,4,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+499,91,2,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+500,28,0,3,0,"Hi, I have applied for the sick leave on 1993-03-23 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+501,40,1,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+502,87,2,3,3,"Hi, I have applied for the sick leave on 1978-10-04 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+503,185,1,2,3,"Dear team, I am shifting to West Luis from New Olivia due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+504,53,1,2,3,"Dear team, I am shifting to Lake Jameschester from Bullockchester due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+505,184,4,0,2,"Hi team, I am not able to run Wolfrom in my system due to internal error. Please see the attached error and resolve the issue",software,0
+506,169,0,3,3,"Hi, I have applied for the sick leave on 1974-01-13 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+507,194,0,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+508,0,2,1,1,"Hi, my team needs a new Garbage Disposal Unit for the project kindly help us to come up with the quote for the said product.",product_name,0
+509,171,3,3,3,"Hi, I have applied for the sick leave on 2019-06-28 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+510,95,2,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+511,125,2,0,2,Hi team I want to access http://www.pope-elliott.net/ website for research purpose kindly remove the site from the proxy,url,0
+512,66,0,4,2,"Hi Team, I was wondering whether this Optometrist is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+513,4,2,5,1,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Harpertown.,city,0
+514,143,1,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+515,7,0,2,2,"Dear team, I am shifting to Rodriguezton from New Michaelshire due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+516,6,4,4,3,"Hi Team, I was wondering whether this Clinical scientist, histocompatibility and immunogenetics is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+517,64,4,0,2,"Hi, I want the installation of python package Django. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+518,22,4,3,1,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+519,100,1,1,3,"Hi, my team needs a new Hair Dryer for the project kindly help us to come up with the quote for the said product.",product_name,0
+520,65,4,0,2,"Hi team, I want to upgrade the Webex for my project requirements. Kidly do the needful.",software,0
+521,82,2,2,2,"Dear team, I am shifting to East Feliciaburgh from West Georgeland due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+522,78,1,6,0,"Hi team, I need access to the intern portal. please enable it for me.",,0
+523,114,1,1,3,"I noticed unauthorized transactions on my credit card statement for the amount of $52,021.10 on 2015-12-24. The transactions are listed as Parker-Henderson. I did not authorize these transactions and would like them to be reversed immediately to my credit card 6515724345415863.",money date company credit_card_number,1
+524,130,4,1,3,"Hi, my team needs a new Dehumidifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+525,187,3,4,2,"Hi HR team I want to refer my friend for the Accountant, chartered but I cannot access the referral site. Can you please accept this referral through this mail.",job,0
+526,119,3,0,3,"Hi team, I want to upgrade the Qualtrics for my project requirements. Kidly do the needful.",software,0
+527,171,3,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Danielle.,city,0
+528,149,2,2,2,"Hi,I am Dalton Summers and my employee ID is EMP360-31-2275. 
+I am having trouble with my travel claim, my expense amount was $21,080.78 for reimbursement. 
+My other details such as email is ethan01@gmail.com and postal code is 34671 and account number is QOFG80138464876144. 
+Please look into matter asap. My place of residence is Unit 8346 Box 1707
+DPO AE 19374.",name ssn money mail zip_code bank_account_number address,1
+529,58,1,5,2,"Hi, I had applied for the claim on 1977-07-11. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+530,107,3,3,1,"Hi, I have applied for the sick leave on 1978-01-24 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+531,127,2,0,3,"Hi team, I want to upgrade the Gainsight for my project requirements. Kidly do the needful.",software,0
+532,28,0,4,3,"Hi Team, I was wondering whether this Tax inspector is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+533,159,2,3,1,"Hi team, my be leave balance shown in the system is not correct as of 2012-08-11. The leave shown are less. Please resolve the issue.",date,0
+534,126,3,0,2,"Hi team, I want to upgrade the Intuit for my project requirements. Kidly do the needful.",software,0
+535,76,0,7,2,"I am experiencing technical issues with Sewing Machine. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username julianoconnell, Email lintodd@hotmail.com.",product_name username mail,1
+536,103,0,2,3,"Dear team, I am shifting to Jenniferchester from Kristinfort due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+537,167,1,2,2,"Hi, I need $70,401.81 for my international business travel that is on 2003-04-11 please see the attached itinerary and approval. Thank you.",money date,0
+538,95,2,0,3,"Hi team, I want to upgrade the Procore for my project requirements. Kidly do the needful.",software,0
+539,180,3,6,2,"Hi, I have been logged out of my account and cannot login back. my username is hmills. Please resolve it.",username,0
+540,50,0,3,3,"Hi, I have applied for the sick leave on 1975-08-07 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+541,14,3,3,1,"Hi team, my be leave balance shown in the system is not correct as of 1996-03-10. The leave shown are less. Please resolve the issue.",date,0
+542,145,3,3,1,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+543,55,0,3,2,"Hi team, I want a leave from 1970-08-14 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Susan Castaneda, designation Database administrator",date name job,1
+544,5,0,2,3,"Hi, I need $2,078.40 for my international business travel that is on 2006-08-17 please see the attached itinerary and approval. Thank you.",money date,0
+545,194,0,7,2,"I recently purchased Humidifier for the amount $74.17 on date 2010-03-02, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 2019-02-17 from my home 65925 Sabrina Stream Apt. 208
+Heatherland, MA 51750 and initiate a refund to my credit card 342718085296790.",product_name money date date residence credit_card_number,1
+546,174,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+547,3,2,6,1,"I have recently moved and would like to update my account information with my new address. My new address is 62920 Patrick Rapid Apt. 723
+North Cynthiastad, MA 95594. Please assist me with updating my account information.",residence,1
+548,141,4,3,1,"Hi team, I want a leave from 2004-08-18 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:William Newman, designation Chiropractor",date name job,1
+549,197,2,0,3,"Hi, I want the installation of python package Django. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+550,181,2,1,3,"Hi, I need a corporate credit card for my international travel with the $44,706.37. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+551,81,4,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+552,71,0,0,2,"Hi, I need to the installation of Guidewire for development purpose of my project.",software,0
+553,192,1,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+554,128,1,7,1,"Hi, I have a need of Oven in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+555,53,1,5,3,"Hi,I am Randy Roberts and I work in Miller, Henson and Young. My employee ID is EMP590-60-5137. 
+I am having trouble with health account, my userid is alexanderwells and amount was $85,191.08. 
+My postal code is 88311. My country of residence is PSC 4425, Box 6490
+APO AE 80967. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+556,199,0,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+557,184,4,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+558,66,0,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 45555 Stephen Avenue
+North David, NC 27295. Please assist me with updating my account information.",residence,1
+559,4,2,4,2,"Hi team, I want to avail the maternity benefit from 2007-05-14. My employee ID is 531-72-5576 and designation is Psychologist, sport and exercise. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+560,18,2,1,2,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+561,38,3,1,0,"Hi, I need a corporate credit card for my international travel with the $512.07. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+562,162,1,7,3,"Hi, I have a need of Washing Machine in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+563,169,0,7,2,"I am experiencing technical issues with Sewing Machine. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username joshua72, Email bergertodd@gmail.com.",product_name username mail,1
+564,143,1,3,2,"Hi team, I want a leave from 1972-01-30 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Jesse Campbell, designation Engineer, water",date name job,1
+565,39,3,7,3,"Hi, I have a need of Air Conditioner in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+566,176,4,7,3,"Hi team, I need the catalogue of available Blender for purchase with the price listed. Please send me the catalogue.",product_name,0
+567,59,0,6,2,"Hi, I have been logged out of my account and cannot login back. my username is jessicaroth. Please resolve it.",username,0
+568,166,0,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+569,193,0,4,3,"Hi team, I want to avail the maternity benefit from 2011-07-19. My employee ID is 817-28-1374 and designation is Optometrist. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+570,46,4,7,3,"I am experiencing technical issues with Toaster. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username tharvey, Email richardcampbell@yahoo.com.",product_name username mail,1
+571,138,3,1,3,"Hi,I am Billy Smith and my employee ID is EMP162-88-1717. 
+I am having trouble with my hardware claim, my expense amount was $239.84 for reimbursement. 
+My other details such as designation is Personal assistant, userid frenchwalter and email is timothy17@yahoo.com.",name ssn money job username mail,1
+572,88,4,5,2,"Hi,I am Anne Becker and I work in Vazquez-Young. My employee ID is EMP262-10-2923. 
+I am having trouble with health account, my userid is moodylaura and amount was $612.73. 
+My postal code is 19787. My country of residence is 226 Gerald Crossroad
+Lake Josephside, LA 90049. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+573,17,2,6,0,"Hi team, I need access to the intern portal. please enable it for me.",,0
+574,125,2,4,1,"Hi HR team I want to refer my friend for the Engineer, manufacturing systems but I cannot access the referral site. Can you please accept this referral through this mail.",job,0
+575,145,3,1,3,"Hi, my team needs a new Dryer for the project kindly help us to come up with the quote for the said product.",product_name,0
+576,136,0,1,3,"Hi, I need a corporate credit card for my international travel with the $3,937.02. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+577,49,3,3,2,"Hi, I have applied for the sick leave on 2001-12-05 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+578,146,3,1,2,"Hi, my team needs a new Water Purifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+579,99,1,7,3,"Hi, I have a need of Air Conditioner in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+580,105,3,7,3,"Hi team, I need the catalogue of available Air Purifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+581,69,2,2,0,"Dear team, I am shifting to Farmerstad from South Christineton due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+582,44,4,1,3,I noticed unauthorized transactions on my credit card statement for the amount of $17.10 on 2007-09-30. The transactions are listed as Mcintosh-Smith. I did not authorize these transactions and would like them to be reversed immediately to my credit card 3591630513514862.,money date company credit_card_number,1
+583,23,2,6,2,"I am unable to log in to my account. My credentials are, username juanthompson, email pfrank@hotmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+584,122,3,0,2,Hi team I want to access http://www.rivera.com/ website for research purpose kindly remove the site from the proxy,url,0
+585,68,2,1,2,"Hi, I need a corporate credit card for my international travel with the $873.37. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+586,2,4,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2002-11-27. The leave shown are less. Please resolve the issue.",date,0
+587,180,3,7,2,"I recently purchased Garbage Disposal Unit for the amount $67.91 on date 1982-08-25, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1974-08-24 from my home 399 Moore Ramp
+Moralesville, IA 11331 and initiate a refund to my credit card 4869764828675374.",product_name money date date residence credit_card_number,1
+588,69,2,2,2,"Dear team, I am shifting to Bestburgh from West Ashley due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+589,125,2,2,1,"Hi,I am Robert Pratt and my employee ID is EMP091-90-2257. 
+I am having trouble with my travel claim, my expense amount was $3,414.15 for reimbursement.
+ My other details such as designation is Engineer, manufacturing systems and email is ywalker@gmail.com. 
+The payment was done with given credit card number 4556361565755804392 and credit card type American Express.",name ssn money job mail credit_card_number cc_provider,1
+590,56,2,7,2,"Hi, I have a need of Domestic Robot in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+591,102,4,1,1,"Hi, I need a corporate credit card for my international travel with the $230.55. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+592,91,2,0,2,"Hi team, I am not able to run iCIMS in my system due to internal error. Please see the attached error and resolve the issue",software,0
+593,136,0,0,1,Hi team I want to access https://robinson.com/ website for research purpose kindly remove the site from the proxy,url,0
+594,112,2,2,2,"Hi, I need $48,728.28 for my international business travel that is on 1997-06-22 please see the attached itinerary and approval. Thank you.",money date,0
+595,103,0,4,2,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 558-42-6422. Please initiate the recruitment under my project. thanks",ssn,1
+596,113,1,7,1,"Hi team, I need the catalogue of available Toaster for purchase with the price listed. Please send me the catalogue.",product_name,0
+597,73,3,3,1,"Hi, I have applied for the sick leave on 1992-10-31 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+598,1,4,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+599,181,2,4,3,"Hi Team, I was wondering whether this Database administrator is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+600,168,3,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2015-11-05. The leave shown are less. Please resolve the issue.",date,0
+601,1,4,3,0,"Hi, I have applied for the sick leave on 2020-01-21 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+602,110,3,5,2,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+603,53,1,1,0,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+604,182,2,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+605,184,4,4,3,Hi HR team I want to refer my friend for the Clinical embryologist but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+606,97,3,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+607,24,1,1,2,"I made a payment of $94,959.46 for my account on 2003-03-27, but it has not been credited yet. The payment was made using my credit card 4630524998399728. I have attached a copy of the payment receipt for your reference. Please investigate the issue and update me on the status of the payment. My email address is mariahgonzales@hotmail.com and phone number is 6529121066594",money date credit_card_number mail phone_number,1
+608,73,3,0,2,"Hi team I want to access https://tucker.biz/ website for research purpose kindly remove the site from the proxy. My employee id is 052-68-6312 and my profile is Psychologist, prison and probation services.",url ssn job,1
+609,34,0,2,3,"Dear team, I am shifting to South Angelabury from East Emma due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+610,169,0,5,2,"Hi,I am Angelica Wilson and I work in Sanchez LLC. My employee ID is EMP158-90-2361. 
+I am having trouble with health account, my userid is joshua72 and amount was $4,343.37. 
+My postal code is 11736. My country of residence is 1889 Christopher Road Apt. 158
+East Denisemouth, WA 24204. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+611,164,0,2,3,"Hi, I need $30,787.62 for my international business travel that is on 1994-10-13 please see the attached itinerary and approval. Thank you.",money date,0
+612,93,0,0,2,"Hi team, I am not able to run Wolfrom in my system due to internal error. Please see the attached error and resolve the issue",software,0
+613,50,0,2,2,"Hi, I need $5,834.06 for my international business travel that is on 1997-06-03 please see the attached itinerary and approval. Thank you.",money date,0
+614,13,0,5,1,"Hi,I am Katherine Stark and from 2571 David Groves Suite 147
+East Lindsey, FL 60263. 
+I am having trouble with my medical claim, my employee ID is EMP638-46-2099 and amount was $669.64. 
+The payment was made through my credit card 6011860355597379. 
+My other details such as designation is Advertising account planner email is scottbrandon@yahoo.com and postal code is 15538. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+615,144,2,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1991-10-15. The leave shown are less. Please resolve the issue.",date,0
+616,104,4,3,1,"Hi team, I am Shawn Edwards, employee id 023-22-1587. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+617,16,1,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+618,195,2,4,3,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 882-09-8717. Please initiate the recruitment under my project. thanks",ssn,1
+619,9,3,7,3,"Hi, I have a need of Microwave in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+620,20,2,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+621,99,1,7,1,"Hi, I have a need of Refrigerator in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+622,108,1,1,2,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+623,179,1,0,2,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+624,151,1,5,3,"Hi,I am Wayne Wu and from 36819 Bruce Estate
+East Richard, OH 47944. 
+I am having trouble with my medical claim, my employee ID is EMP486-32-4965 and amount was $39.07. 
+The payment was made through my credit card 4179101939131830361. 
+My other details such as designation is Editor, magazine features email is tmorrison@gmail.com and postal code is 32720. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+625,172,1,0,2,"Hi, I need to the installation of Autodesk for development purpose of my project.",software,0
+626,96,3,5,2,"Hi, I had applied for the claim on 1972-08-20. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+627,155,1,0,3,"Hi team, I am not able to run Procore in my system due to internal error. Please see the attached error and resolve the issue",software,0
+628,12,1,1,3,"Hi, my team needs a new Dryer for the project kindly help us to come up with the quote for the said product.",product_name,0
+629,98,3,4,3,Hi HR team I want to refer my friend for the Television floor manager but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+630,45,3,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2014-09-14. The leave shown are less. Please resolve the issue.",date,0
+631,175,4,2,2,"Hi,I am Amanda Martinez and my employee ID is EMP191-72-6777. 
+I am having trouble with my travel claim, my expense amount was $525.73 for reimbursement.
+ My other details such as designation is Telecommunications researcher and email is deborah63@yahoo.com. 
+The payment was done with given credit card number 572630445276 and credit card type VISA 16 digit.",name ssn money job mail credit_card_number cc_provider,1
+632,85,4,2,3,"Hi, I need $31.89 for my international business travel that is on 1982-09-06 please see the attached itinerary and approval. Thank you.",money date,0
+633,198,2,6,3,"Hi, I have been logged out of my account and cannot login back. my username is ericahodge. Please resolve it.",username,0
+634,168,3,3,2,"Hi team, I want a leave from 1976-01-01 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Jeremy Acosta, designation Government social research officer",date name job,1
+635,52,2,7,3,"Hi team, I need the catalogue of available Oven for purchase with the price listed. Please send me the catalogue.",product_name,0
+636,130,4,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1971-05-17. The leave shown are less. Please resolve the issue.",date,0
+637,43,3,6,3,"I am unable to log in to my account. My credentials are, username john44, email byrdvictoria@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+638,108,1,4,3,"Hi Team, I was wondering whether this Sales promotion account executive is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+639,40,1,5,3,"Hi, I had applied for the claim on 1974-08-16. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+640,157,2,1,2,"Hi, I need a corporate credit card for my international travel with the $627.14. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+641,154,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+642,6,4,6,2,"I have recently moved and would like to update my account information with my new address. My new address is 5604 Kristina Club
+North Allenmouth, OR 66310. Please assist me with updating my account information.",residence,1
+643,117,0,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+644,177,4,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+645,170,1,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Robertstad.,city,0
+646,85,4,0,1,Hi team I want to access http://thomas.info/ website for research purpose kindly remove the site from the proxy,url,0
+647,88,4,2,3,"Dear team, I am shifting to Hannahshire from Garciaburgh due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+648,171,3,7,3,"I am experiencing technical issues with Heater. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username jakespencer, Email justin07@hotmail.com.",product_name username mail,1
+649,157,2,4,3,"Hi Team, can you please confirm whether on the 2000-05-06 we have a vacation or not as in my state it is a regional festival.",date,0
+650,76,0,6,3,"Hi, I have been logged out of my account and cannot login back. my username is julianoconnell. Please resolve it.",username,0
+651,194,0,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+652,89,0,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Port Thomasfort.,city,0
+653,185,1,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+654,88,4,3,3,"Hi team, my be leave balance shown in the system is not correct as of 1970-03-03. The leave shown are less. Please resolve the issue.",date,0
+655,102,4,5,2,"Hi, I had applied for the claim on 1975-04-28. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+656,198,2,3,1,"Hi team, my be leave balance shown in the system is not correct as of 2016-03-04. The leave shown are less. Please resolve the issue.",date,0
+657,53,1,5,2,"Hi, I had applied for the claim on 1981-04-16. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+658,148,0,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+659,120,2,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+660,150,3,4,3,"Hi Team, I was wondering whether this Aeronautical engineer is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+661,169,0,3,3,"Hi team, I am Angelica Wilson, employee id 158-90-2361. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+662,98,3,3,1,"Hi, I have applied for the sick leave on 1974-03-03 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+663,170,1,2,2,"Hi, I need $7,563.81 for my international business travel that is on 2005-02-07 please see the attached itinerary and approval. Thank you.",money date,0
+664,176,4,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+665,158,1,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+666,7,0,3,2,"Hi, I have applied for the sick leave on 2005-07-13 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+667,121,0,5,2,"Hi, I had applied for the claim on 1999-05-05. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+668,101,0,4,3,"Hi Team, can you please confirm whether on the 2012-11-16 we have a vacation or not as in my state it is a regional festival.",date,0
+669,119,3,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 363 Davis Ports
+Joannahaven, MP 22167. Please assist me with updating my account information.",residence,1
+670,153,3,4,2,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 644-48-5015. Please initiate the recruitment under my project. thanks",ssn,1
+671,160,4,2,0,"Dear team, I am shifting to Aliciabury from New Melissa due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+672,94,2,3,2,"Hi team, I am Vincent Underwood, employee id 529-32-4432. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+673,100,1,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Lake Jessicamouth.,city,0
+674,22,4,4,2,"Hi Team, can you please confirm whether on the 2016-06-18 we have a vacation or not as in my state it is a regional festival.",date,0
+675,112,2,4,3,"Hi Team, I was wondering whether this Clinical molecular geneticist is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+676,146,3,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+677,109,1,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+678,23,2,4,2,"Hi I am Taylor Snyder, currently working as Estate manager/land agent. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+679,146,3,3,3,"Hi team, I want a leave from 1971-02-05 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Sonya Ramirez, designation Waste management officer",date name job,1
+680,113,1,3,2,"Hi, I have applied for the sick leave on 1981-11-21 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+681,35,3,4,2,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 305-15-6164. Please initiate the recruitment under my project. thanks",ssn,1
+682,23,2,5,3,"Hi, I had applied for the claim on 1996-01-31. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+683,151,1,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+684,16,1,3,2,"Hi team, I am Adam Trujillo, employee id 047-03-1821. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+685,18,2,7,2,"I am experiencing technical issues with Domestic Robot. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username barbarali, Email garciacarol@hotmail.com.",product_name username mail,1
+686,59,0,2,2,"Hi, I need $47,513.94 for my international business travel that is on 2011-06-26 please see the attached itinerary and approval. Thank you.",money date,0
+687,118,1,1,2,"Hi, my team needs a new Dehumidifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+688,43,3,1,3,"Hi, my team needs a new Garbage Disposal Unit for the project kindly help us to come up with the quote for the said product.",product_name,0
+689,190,3,7,0,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+690,196,0,5,3,"Hi, I had applied for the claim on 1972-07-15. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+691,174,2,5,3,"Hi, I had applied for the claim on 1975-02-21. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+692,56,2,4,3,"Hi Team, can you please confirm whether on the 2015-05-31 we have a vacation or not as in my state it is a regional festival.",date,0
+693,78,1,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Jacquelineberg.,city,0
+694,182,2,4,2,"Hi Team, can you please confirm whether on the 1980-10-14 we have a vacation or not as in my state it is a regional festival.",date,0
+695,60,4,6,2,"I am unable to log in to my account. My credentials are, username phambradley, email smills@yahoo.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+696,71,0,2,2,"Dear team, I am shifting to South Robert from Ericaborough due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+697,166,0,3,2,"Hi team, I am Joseph Young, employee id 704-30-1849. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+698,129,0,7,1,"Hi, I have a need of Air Conditioner in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+699,137,2,1,2,"Hi, I need a corporate credit card for my international travel with the $260.10. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+700,176,4,5,2,"Hi,I am James Lewis and I work in Simmons-White. My employee ID is EMP304-27-1967. 
+I am having trouble with health account, my userid is alexis28 and amount was $10.07. 
+My postal code is 47832. My country of residence is 6614 Miller Estate
+South Tiffany, SC 21892. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+701,134,4,4,1,"Hi I am James Marshall, currently working as Legal executive. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+702,49,3,1,1,"Hi, I need a corporate credit card for my international travel with the $47.84. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+703,93,0,1,2,"Hi,I am Karen Decker and my employee ID is EMP080-70-8174. 
+I am having trouble with my hardware claim, my expense amount was $2.21 for reimbursement. 
+My other details such as designation is Jewellery designer, userid anthony10 and email is andrew62@yahoo.com.",name ssn money job username mail,1
+704,35,3,3,1,"Hi team, I am Brooke Young, employee id 305-15-6164. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+705,79,1,7,3,"Hi, I have a need of Hair Dryer in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+706,9,3,0,1,"Hi team, I am not able to run Procore in my system due to internal error. Please see the attached error and resolve the issue",software,0
+707,7,0,7,3,"I recently purchased Garbage Disposal Unit for the amount $7.89 on date 2022-09-02, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1982-07-22 from my home 4807 Rodney Ford
+Cherrymouth, RI 08275 and initiate a refund to my credit card 4806242339861039713.",product_name money date date residence credit_card_number,1
+708,83,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+709,126,3,2,3,"Hi, I need $17.66 for my international business travel that is on 1972-06-18 please see the attached itinerary and approval. Thank you.",money date,0
+710,49,3,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+711,76,0,7,2,"Hi team, I need the catalogue of available Dryer for purchase with the price listed. Please send me the catalogue.",product_name,0
+712,74,4,5,3,"Hi,I am Nathan Nichols and from 493 James Junctions Suite 965
+Parsonschester, MS 70538. 
+I am having trouble with my medical claim, my employee ID is EMP611-59-9767 and amount was $91,135.34. 
+The payment was made through my credit card 6554187202818144. 
+My other details such as designation is Paramedic email is samantha59@hotmail.com and postal code is 15372. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+713,151,1,0,3,"hi team, I am Wayne Wu and my employee id is 486-32-4965. I need the installation of DocSend for the development purpose. I have attached required approvals in the attachment. thank you.",name ssn software,1
+714,174,2,4,2,"Hi Team, can you please confirm whether on the 2006-05-17 we have a vacation or not as in my state it is a regional festival.",date,0
+715,97,3,5,2,"Hi,I am Stephen Ramirez and from 53407 Brown Roads
+Websterville, NM 25718. 
+I am having trouble with my medical claim, my employee ID is EMP487-63-6711 and amount was $1,603.98. 
+The payment was made through my credit card 3513768195995978. 
+My other details such as designation is Office manager email is floydamber@hotmail.com and postal code is 72195. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+716,160,4,5,0,"Hi,I am Craig Cole and I work in Oconnor, Moody and Fuller. My employee ID is EMP387-35-9814. 
+I am having trouble with health account, my userid is stacyroberson and amount was $0.86. 
+My postal code is 15850. My country of residence is 60047 Coleman Branch
+Johnchester, SC 44571. 
+Please look into matter asap.",name company ssn username money zip_code address,1
+717,60,4,0,2,Hi team I want to access http://www.ingram.org/ website for research purpose kindly remove the site from the proxy. My employee id is 810-02-6569 and my profile is Lobbyist.,url ssn job,1
+718,147,2,7,1,"I am experiencing technical issues with Washing Machine. It shows error code 500. I have tried troubleshooting by going through help documents, but the issue still persists. Please assist me in resolving the issue. My account details are: username duffymiguel, Email duanegarcia@hotmail.com.",product_name username mail,1
+719,163,4,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2012-09-15. The leave shown are less. Please resolve the issue.",date,0
+720,100,1,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+721,115,4,5,3,"Hi, I had applied for the claim on 1986-09-20. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+722,124,4,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Rachel.,city,0
+723,6,4,3,3,"Hi team, my be leave balance shown in the system is not correct as of 1991-05-28. The leave shown are less. Please resolve the issue.",date,0
+724,64,4,2,2,"Dear team, I am shifting to Harrisshire from Lake Jimmyfurt due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+725,113,1,4,3,"Hi Team, can you please confirm whether on the 1979-12-10 we have a vacation or not as in my state it is a regional festival.",date,0
+726,47,1,4,3,"Hi HR team I want to refer my friend for the Engineer, building services but I cannot access the referral site. Can you please accept this referral through this mail.",job,0
+727,74,4,3,2,"Hi team, I want a leave from 2022-10-30 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Nathan Nichols, designation Paramedic",date name job,1
+728,154,2,5,3,"Hi, I had applied for the claim on 2005-12-23. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+729,101,0,2,3,"Hi,I am Denise Nolan and my employee ID is EMP818-30-7832. 
+I am having trouble with my travel claim, my expense amount was $8.80 for reimbursement.
+ My other details such as designation is Transport planner and email is jamesalyssa@gmail.com. 
+The payment was done with given credit card number 3563711399522536 and credit card type Mastercard.",name ssn money job mail credit_card_number cc_provider,1
+730,130,4,0,3,"Hi team, I want to upgrade the Acrobat Reader for my project requirements. Kidly do the needful.",software,0
+731,157,2,0,2,"Hi team, I want to upgrade the DocSend for my project requirements. Kidly do the needful.",software,0
+732,34,0,3,3,"Hi, I have applied for the sick leave on 1998-12-08 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+733,36,2,2,3,"Dear team, I am shifting to Mckayland from Heatherland due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+734,44,4,7,1,"Hi team, I need the catalogue of available Toaster for purchase with the price listed. Please send me the catalogue.",product_name,0
+735,123,0,0,3,"hi team, I am Sierra Brown and my employee id is 122-64-8525. I need the installation of ServiceNow for the development purpose. I have attached required approvals in the attachment. thank you.",name ssn software,1
+736,132,0,4,2,"Hi I am Jessica Baxter, currently working as Education officer, museum. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+737,199,0,3,3,"Hi, I have applied for the sick leave on 1985-05-28 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+738,169,0,2,3,"Dear team, I am shifting to Clarkstad from Jeffreyton due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+739,178,4,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+740,142,3,4,3,"Hi Team, can you please confirm whether on the 1973-06-27 we have a vacation or not as in my state it is a regional festival.",date,0
+741,127,2,4,3,"Hi team, I want to avail the maternity benefit from 1977-02-08. My employee ID is 218-73-9129 and designation is Buyer, industrial. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+742,86,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+743,33,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2014-08-07. The leave shown are less. Please resolve the issue.",date,0
+744,26,2,7,3,"Hi team, I need the catalogue of available Humidifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+745,72,1,6,0,"I have recently moved and would like to update my account information with my new address. My new address is 21686 Jacobs Isle Suite 133
+West Davidchester, PA 38195. Please assist me with updating my account information.",residence,1
+746,178,4,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+747,62,2,6,2,"I am unable to log in to my account. My credentials are, username slutz, email melissaduncan@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+748,62,2,1,1,"Hi, my team needs a new Oven for the project kindly help us to come up with the quote for the said product.",product_name,0
+749,59,0,0,1,"Hi, I want the installation of python package qt5. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+750,35,3,3,1,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+751,72,1,3,0,"Hi team, I want a leave from 1970-01-12 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Whitney Marshall, designation Physicist, medical",date name job,1
+752,63,2,2,2,"Dear team, I am shifting to South Veronicashire from East Michaelview due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+753,13,0,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+754,109,1,2,3,"Dear team, I am shifting to Seanborough from Joeview due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+755,177,4,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city West Ryan.,city,0
+756,11,4,0,2,"Hi team, I want to upgrade the Salesforce for my project requirements. Kidly do the needful.",software,0
+757,166,0,5,3,"Hi,I am Joseph Young and from 0497 Yu Tunnel Suite 673
+Gibsonmouth, WA 14567. 
+I am having trouble with my medical claim, my employee ID is EMP704-30-1849 and amount was $3.69. 
+The payment was made through my credit card 30101445971906. 
+My other details such as designation is Social worker email is alicia60@gmail.com and postal code is 38256. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+758,141,4,0,2,"Hi team, I want to upgrade the VSCode for my project requirements. Kidly do the needful.",software,0
+759,146,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+760,138,3,1,0,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+761,101,0,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+762,4,2,1,2,"Hi, I need a corporate credit card for my international travel with the $364.82. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+763,64,4,5,2,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+764,28,0,3,2,"Hi, I have applied for the sick leave on 1975-07-24 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+765,125,2,0,2,"Hi team, I want to upgrade the Asana for my project requirements. Kidly do the needful.",software,0
+766,15,4,6,1,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+767,66,0,6,2,"Hi, I have been logged out of my account and cannot login back. my username is brodriguez. Please resolve it.",username,0
+768,167,1,7,2,"Hi, I have a need of Waffle Iron in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+769,83,3,2,3,"Hi, I need $574.70 for my international business travel that is on 1973-07-12 please see the attached itinerary and approval. Thank you.",money date,0
+770,149,2,4,2,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 360-31-2275. Please initiate the recruitment under my project. thanks",ssn,1
+771,130,4,2,3,"Hi, I need $735.45 for my international business travel that is on 1996-10-16 please see the attached itinerary and approval. Thank you.",money date,0
+772,173,4,3,2,"Hi team, I am Karen Perkins, employee id 544-17-6644. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+773,34,0,1,2,"Hi, my team needs a new Dishwasher for the project kindly help us to come up with the quote for the said product.",product_name,0
+774,29,3,3,3,"Hi team, I want a leave from 2023-02-06 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Nichole Wright, designation Librarian, academic",date name job,1
+775,182,2,7,3,"Hi team, I need the catalogue of available Dehumidifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+776,182,2,4,0,"Hi Team, can you please confirm whether on the 1974-08-14 we have a vacation or not as in my state it is a regional festival.",date,0
+777,133,2,6,2,"Hi, I have been logged out of my account and cannot login back. my username is paultran. Please resolve it.",username,0
+778,181,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 2011-12-27. The leave shown are less. Please resolve the issue.",date,0
+779,186,4,2,0,"Dear team, I am shifting to Clarkmouth from North Hunter due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+780,94,2,3,3,"Hi team, my be leave balance shown in the system is not correct as of 1982-03-26. The leave shown are less. Please resolve the issue.",date,0
+781,123,0,2,3,"Hi, I need $90,124.69 for my international business travel that is on 2011-04-28 please see the attached itinerary and approval. Thank you.",money date,0
+782,95,2,4,2,"Hi Team, can you please confirm whether on the 1975-10-10 we have a vacation or not as in my state it is a regional festival.",date,0
+783,162,1,7,2,"Hi team, I need the catalogue of available Sewing Machine for purchase with the price listed. Please send me the catalogue.",product_name,0
+784,54,0,3,3,"Hi team, I am Jonathan Chandler, employee id 807-51-8813. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+785,8,1,1,1,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+786,44,4,1,2,"Hi, my team needs a new Oven for the project kindly help us to come up with the quote for the said product.",product_name,0
+787,101,0,7,0,"Hi team, I need the catalogue of available Ceiling Fan for purchase with the price listed. Please send me the catalogue.",product_name,0
+788,71,0,7,2,"I recently purchased Sewing Machine for the amount $3.01 on date 2016-11-05, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1975-03-28 from my home 967 Michael Field
+South Christopher, AZ 54956 and initiate a refund to my credit card 180028523883810.",product_name money date date residence credit_card_number,1
+789,0,2,4,2,Hi HR team I want to refer my friend for the Mental health nurse but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+790,22,4,0,2,Hi team I want to access https://www.vincent-kerr.net/ website for research purpose kindly remove the site from the proxy,url,0
+791,196,0,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+792,91,2,7,0,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+793,163,4,4,2,"Hi Team, can you please confirm whether on the 1972-04-17 we have a vacation or not as in my state it is a regional festival.",date,0
+794,2,4,1,3,"Hi, I need a corporate credit card for my international travel with the $1.64. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+795,174,2,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Amanda.,city,0
+796,13,0,4,2,"Hi Team, I was wondering whether this Advertising account planner is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+797,168,3,7,1,"Hi team, I need the catalogue of available Sewing Machine for purchase with the price listed. Please send me the catalogue.",product_name,0
+798,21,2,2,2,"Dear team, I am shifting to South Briannatown from Darrellfurt due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+799,72,1,0,2,"Hi team, I am not able to run Dropbox in my system due to internal error. Please see the attached error and resolve the issue",software,0
+800,3,2,4,3,Hi HR team I want to refer my friend for the Data scientist but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+801,167,1,1,0,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+802,56,2,1,3,"Hi, I need a corporate credit card for my international travel with the $4,983.32. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+803,42,4,2,0,"Hi,I am Colleen Huynh and my employee ID is EMP108-54-8735. 
+I am having trouble with my travel claim, my expense amount was $45,553.03 for reimbursement. 
+My other details such as email is tclark@gmail.com and postal code is 92851 and account number is NEQX55819167313366. 
+Please look into matter asap. My place of residence is 854 Pratt Bridge
+Port Tanya, DC 54300.",name ssn money mail zip_code bank_account_number address,1
+804,80,2,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+805,55,0,5,1,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Jonesborough.,city,0
+806,199,0,4,1,"Hi team, I want to avail the maternity benefit from 2002-08-24. My employee ID is 688-33-0155 and designation is Media buyer. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+807,145,3,6,2,"I have recently moved and would like to update my account information with my new address. My new address is 793 George Rapid
+West Briantown, VT 49034. Please assist me with updating my account information.",residence,1
+808,96,3,1,2,"Hi, my team needs a new Oven for the project kindly help us to come up with the quote for the said product.",product_name,0
+809,194,0,2,2,"Dear team, I am shifting to Duanebury from New Ian due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+810,36,2,2,2,"Dear team, I am shifting to Lake Samanthachester from Port Carmen due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+811,165,2,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+812,120,2,2,1,"Hi, I need $92,622.34 for my international business travel that is on 2017-06-08 please see the attached itinerary and approval. Thank you.",money date,0
+813,165,2,4,1,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 702-71-9421. Please initiate the recruitment under my project. thanks",ssn,1
+814,38,3,1,1,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+815,179,1,0,3,"Hi team, I want to upgrade the Gainsight for my project requirements. Kidly do the needful.",software,0
+816,179,1,7,3,"Hi team, I need the catalogue of available Blender for purchase with the price listed. Please send me the catalogue.",product_name,0
+817,20,2,3,2,"Hi team, my be leave balance shown in the system is not correct as of 2011-05-17. The leave shown are less. Please resolve the issue.",date,0
+818,197,2,3,3,"Hi, I have applied for the sick leave on 2006-07-19 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+819,195,2,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+820,140,4,2,2,"Dear team, I am shifting to Port Robertport from Whitechester due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+821,58,1,4,1,Hi HR team I want to refer my friend for the Higher education lecturer but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+822,25,0,7,1,"Hi team, I need the catalogue of available Garbage Disposal Unit for purchase with the price listed. Please send me the catalogue.",product_name,0
+823,115,4,7,3,"Hi, I have a need of Water Purifier in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+824,177,4,6,1,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+825,91,2,2,2,"Dear team, I am shifting to Simmonsside from Ernestborough due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+826,140,4,4,3,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 267-78-2911. Please initiate the recruitment under my project. thanks",ssn,1
+827,79,1,2,3,"Dear team, I am shifting to Fullerhaven from New Alexanderton due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+828,87,2,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+829,42,4,7,3,"Hi, I have a need of Heater in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+830,108,1,2,2,"Dear team, I am shifting to New Kyleborough from Schneidershire due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+831,116,4,2,2,"Hi, I need $5.16 for my international business travel that is on 1989-06-17 please see the attached itinerary and approval. Thank you.",money date,0
+832,129,0,2,3,"Dear team, I am shifting to Lake Peterburgh from Port Samanthastad due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+833,86,3,4,1,Hi HR team I want to refer my friend for the Ecologist but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+834,92,3,2,2,"Hi, I need $5.26 for my international business travel that is on 1999-07-09 please see the attached itinerary and approval. Thank you.",money date,0
+835,195,2,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+836,158,1,7,3,"Hi team, I need the catalogue of available Air Conditioner for purchase with the price listed. Please send me the catalogue.",product_name,0
+837,55,0,1,2,"Hi, my team needs a new Sewing Machine for the project kindly help us to come up with the quote for the said product.",product_name,0
+838,19,4,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+839,71,0,1,2,"Hi, I need a corporate credit card for my international travel with the $5.23. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+840,111,3,2,2,"Dear team, I am shifting to West Michael from North Robinhaven due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+841,19,4,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+842,69,2,2,1,"Hi, I need $23.02 for my international business travel that is on 2014-07-24 please see the attached itinerary and approval. Thank you.",money date,0
+843,179,1,4,1,"Hi Team, I was wondering whether this Charity fundraiser is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+844,76,0,3,0,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+845,153,3,2,2,"Hi, I need $81,414.49 for my international business travel that is on 2009-09-30 please see the attached itinerary and approval. Thank you.",money date,0
+846,92,3,6,3,"I have recently moved and would like to update my account information with my new address. My new address is 0565 Rogers Burg
+Orrland, WV 19368. Please assist me with updating my account information.",residence,1
+847,170,1,4,2,Hi HR team I want to refer my friend for the Archivist but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+848,196,0,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+849,40,1,0,1,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+850,28,0,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+851,132,0,2,3,"Dear team, I am shifting to Port Terristad from Raymouth due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+852,118,1,3,2,"Hi, I have applied for the sick leave on 2008-09-06 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+853,62,2,6,1,"Hi, I have been logged out of my account and cannot login back. my username is slutz. Please resolve it.",username,0
+854,129,0,5,3,"Hi, I had applied for the claim on 1990-12-11. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+855,57,2,4,3,"Hi Team, I was wondering whether this Scientist, research (maths) is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+856,175,4,3,3,"Hi team, I am Amanda Martinez, employee id 191-72-6777. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+857,26,2,7,1,"I recently purchased Air Conditioner for the amount $72.55 on date 2019-07-20, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1998-05-14 from my home 35518 Taylor Circle
+Leonfurt, KS 14744 and initiate a refund to my credit card 2236089698177537.",product_name money date date residence credit_card_number,1
+858,85,4,0,2,"Hi team, I am not able to run VSCode in my system due to internal error. Please see the attached error and resolve the issue",software,0
+859,84,1,6,3,"Hi, I have been logged out of my account and cannot login back. my username is christina53. Please resolve it.",username,0
+860,141,4,4,2,"Hi I am William Newman, currently working as Chiropractor. I want to upskill and move up the ladder. For that i need access to few educational resources listed below. Please approve the access for same",name job,1
+861,48,2,7,3,"I recently purchased Dishwasher for the amount $45.59 on date 2009-08-20, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 2002-12-25 from my home 3713 Travis Roads Apt. 990
+Lake Rhonda, HI 67487 and initiate a refund to my credit card 4123991456214007016.",product_name money date date residence credit_card_number,1
+862,118,1,3,3,"Hi team, my be leave balance shown in the system is not correct as of 1987-11-11. The leave shown are less. Please resolve the issue.",date,0
+863,191,0,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+864,110,3,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Ashleystad.,city,0
+865,187,3,0,2,Hi team I want to access http://burns-scott.biz/ website for research purpose kindly remove the site from the proxy,url,0
+866,189,0,5,0,"Hi, I had applied for the claim on 1980-10-25. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+867,18,2,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+868,142,3,5,0,"Hi, I had applied for the claim on 1977-07-31. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+869,131,4,6,3,"I am unable to log in to my account. My credentials are, username xward, email brandon45@yahoo.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+870,80,2,2,2,"Dear team, I am shifting to West Travis from North James due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+871,15,4,7,3,"Hi team, I need the catalogue of available Dehumidifier for purchase with the price listed. Please send me the catalogue.",product_name,0
+872,175,4,5,3,"Hi,I am Amanda Martinez and from 66694 Wagner Well Suite 299
+New Mary, MN 34098. 
+I am having trouble with my medical claim, my employee ID is EMP191-72-6777 and amount was $43.72. 
+The payment was made through my credit card 5412794453719212. 
+My other details such as designation is Telecommunications researcher email is deborah63@yahoo.com and postal code is 15778. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+873,135,3,2,3,"Hi, I need $26,240.56 for my international business travel that is on 1972-07-19 please see the attached itinerary and approval. Thank you.",money date,0
+874,67,4,2,2,"Hi,I am Kevin Robinson and my employee ID is EMP425-23-0376. 
+I am having trouble with my travel claim, my expense amount was $876.00 for reimbursement.
+ My other details such as designation is Operational researcher and email is shannonolson@hotmail.com. 
+The payment was done with given credit card number 6011205561507129 and credit card type JCB 15 digit.",name ssn money job mail credit_card_number cc_provider,1
+875,174,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+876,65,4,3,2,"Hi, I have applied for the sick leave on 1996-01-11 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+877,12,1,4,2,"Hi team, I want to avail the maternity benefit from 1975-09-25. My employee ID is 206-65-5723 and designation is Oncologist. Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+878,36,2,4,3,"Hi Team, I was wondering whether this Education officer, museum is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+879,137,2,0,0,Hi team I want to access https://www.williams.org/ website for research purpose kindly remove the site from the proxy,url,0
+880,136,0,1,0,"Hi, I need a corporate credit card for my international travel with the $6.68. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+881,84,1,2,2,"Hi,I am Jesse Gordon and my employee ID is EMP001-66-9759. 
+I am having trouble with my travel claim, my expense amount was $3.19 for reimbursement.
+ My other details such as designation is Geographical information systems officer and email is hallbreanna@gmail.com. 
+The payment was done with given credit card number 30178875572834 and credit card type Diners Club / Carte Blanche.",name ssn money job mail credit_card_number cc_provider,1
+882,90,4,2,2,"Hi, I need $25,807.09 for my international business travel that is on 1981-09-16 please see the attached itinerary and approval. Thank you.",money date,0
+883,70,1,3,2,"Hi team, I am Amy Smith, employee id 139-02-1656. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+884,29,3,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+885,0,2,7,1,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+886,55,0,1,2,"Hi, my team needs a new Microwave for the project kindly help us to come up with the quote for the said product.",product_name,0
+887,165,2,6,3,"I am unable to log in to my account. My credentials are, username kayla09, email beltranmichael@gmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+888,126,3,5,2,"Hi,I am Taylor Morse and my employee ID is EMP367-97-5217 from Sanchez Inc. 
+I am having trouble with health account, my National Health Scheme number is 367-97-5217 and amount was $630.89. 
+My other details such as email is patrickgarcia@gmail.com and postal code is 39272. 
+Please look into matter. My place of residence is PSC 1566, Box 6071
+APO AE 81281.",name ssn company ssn money mail zip_code address,1
+889,60,4,7,3,"Hi, I have a need of Domestic Robot in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+890,54,0,7,1,"Hi team, I need the catalogue of available Domestic Robot for purchase with the price listed. Please send me the catalogue.",product_name,0
+891,22,4,1,0,"Hi, my team needs a new Waffle Iron for the project kindly help us to come up with the quote for the said product.",product_name,0
+892,7,0,7,3,"I recently purchased Refrigerator for the amount $8,431.29 on date 1984-04-30, but it is defective. I have attached a picture of the defect for your reference. I want to return it. Please schedule the pickup for date 1991-01-11 from my home 4807 Rodney Ford
+Cherrymouth, RI 08275 and initiate a refund to my credit card 4308098411762722.",product_name money date date residence credit_card_number,1
+893,77,4,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+894,127,2,4,3,"Hi HR team I want to refer my friend for the Buyer, industrial but I cannot access the referral site. Can you please accept this referral through this mail.",job,0
+895,122,3,0,2,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+896,63,2,4,1,"Hi Team, can you please confirm whether on the 2012-03-23 we have a vacation or not as in my state it is a regional festival.",date,0
+897,68,2,2,3,"Dear team, I am shifting to Port Tamaraton from Lake Rhondamouth due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+898,5,0,4,2,Hi HR team I want to refer my friend for the Dispensing optician but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+899,35,3,3,2,"Hi, I have applied for the sick leave on 1999-06-27 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+900,85,4,4,1,"Hi Team, I was wondering whether this Higher education careers adviser is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+901,4,2,4,3,"Hi Team, can you please confirm whether on the 1986-07-31 we have a vacation or not as in my state it is a regional festival.",date,0
+902,57,2,4,0,"Hi team, I want to avail the maternity benefit from 1990-03-07. My employee ID is 784-57-5337 and designation is Scientist, research (maths). Kindly approve the same. Ihave attched the required documents. PFA",date ssn job,1
+903,186,4,2,2,"Dear team, I am shifting to East Claire from New Kelly due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+904,37,0,0,2,"Hi, I need to the installation of Webex for development purpose of my project.",software,0
+905,135,3,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+906,173,4,4,2,Hi HR team I want to refer my friend for the Broadcast journalist but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+907,137,2,4,1,"Hi Team, can you please confirm whether on the 1984-11-18 we have a vacation or not as in my state it is a regional festival.",date,0
+908,69,2,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+909,79,1,4,3,"Hi Team, can you please confirm whether on the 1990-02-17 we have a vacation or not as in my state it is a regional festival.",date,0
+910,24,1,4,3,"Hi Team, I was wondering whether this Ophthalmologist is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+911,186,4,1,3,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+912,61,0,3,2,"Hi team, my be leave balance shown in the system is not correct as of 1971-01-18. The leave shown are less. Please resolve the issue.",date,0
+913,14,3,3,2,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+914,92,3,1,2,"I noticed unauthorized transactions on my credit card statement for the amount of $3,393.10 on 2011-12-30. The transactions are listed as Kane-Anderson. I did not authorize these transactions and would like them to be reversed immediately to my credit card 6507101258112664.",money date company credit_card_number,1
+915,75,1,0,2,"Hi team, I want to upgrade the VMware for my project requirements. Kidly do the needful.",software,0
+916,140,4,3,1,"Hi team, I am Laura Gonzalez, employee id 267-78-2911. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+917,11,4,2,3,"Dear team, I am shifting to Port Kennethland from Johnsonport due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+918,121,0,5,3,"Hi, I had applied for the claim on 2002-02-02. I can see there is no progress on the claim. Please expedite the claim process.",date,0
+919,164,0,4,2,"Hi Team, I was wondering whether this Psychologist, educational is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+920,48,2,0,2,"Hi team, I am not able to run Qualtrics in my system due to internal error. Please see the attached error and resolve the issue",software,0
+921,83,3,4,3,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 889-07-0650. Please initiate the recruitment under my project. thanks",ssn,1
+922,112,2,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Courtneyfurt.,city,0
+923,41,3,2,3,"Dear team, I am shifting to North Stephen from Kathrynfurt due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+924,30,1,0,3,"Hi, I want the installation of python package conda. It is required for the development. I am attaching the approval of my manager. PFA. Thank you",python_package,1
+925,48,2,0,3,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+926,29,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+927,84,1,2,2,"Hi,I am Jesse Gordon and my employee ID is EMP001-66-9759. 
+I am having trouble with my travel claim, my expense amount was $3.11 for reimbursement. 
+My other details such as email is hallbreanna@gmail.com and postal code is 58107 and account number is PJYZ57112726638057. 
+Please look into matter asap. My place of residence is 020 Gonzalez Extensions Apt. 936
+Wigginsburgh, KY 55487.",name ssn money mail zip_code bank_account_number address,1
+928,32,4,7,2,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+929,162,1,4,3,"Hi Team, I was wondering whether this Sub is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+930,114,1,4,3,"Hi Team, can you please confirm whether on the 2011-10-03 we have a vacation or not as in my state it is a regional festival.",date,0
+931,188,1,1,2,"Hi, my team needs a new Dehumidifier for the project kindly help us to come up with the quote for the said product.",product_name,0
+932,20,2,5,3,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
+933,25,0,4,3,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 361-96-7175. Please initiate the recruitment under my project. thanks",ssn,1
+934,7,0,1,1,Hi team I want to change my salary structure according to the given details please update my salary structure.,,0
+935,139,2,1,3,"Hi, I need a corporate credit card for my international travel with the $528.21. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+936,4,2,2,1,"Hi, I need $30,976.23 for my international business travel that is on 2002-09-30 please see the attached itinerary and approval. Thank you.",money date,0
+937,63,2,1,1,"Hi,I am Joseph King and my employee ID is EMP142-11-7177. 
+I am having trouble with my hardware claim, my expense amount was $5,391.98 for reimbursement. 
+My other details such as designation is Equities trader, userid jlopez and email is nmoore@yahoo.com.",name ssn money job username mail,1
+938,141,4,2,2,"Hi, I need $90.21 for my international business travel that is on 2004-09-29 please see the attached itinerary and approval. Thank you.",money date,0
+939,161,4,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Joshuamouth.,city,0
+940,38,3,0,3,"Hi team, I am not able to run Jira in my system due to internal error. Please see the attached error and resolve the issue",software,0
+941,63,2,6,3,"Hi, I have been logged out of my account and cannot login back. my username is jlopez. Please resolve it.",username,0
+942,27,3,4,2,"Hi Team, can you please confirm whether on the 2002-05-21 we have a vacation or not as in my state it is a regional festival.",date,0
+943,54,0,2,2,"Hi, I need $16.98 for my international business travel that is on 2019-10-16 please see the attached itinerary and approval. Thank you.",money date,0
+944,129,0,0,2,Hi team my mailbox is full and I need require more storage for my mailbox. I cannot delete existing mail as they are important client mails,,0
+945,81,4,0,0,"Hi team, I am not able to run VSCode in my system due to internal error. Please see the attached error and resolve the issue",software,0
+946,147,2,6,0,"I am unable to log in to my account. My credentials are, username duffymiguel, email duanegarcia@hotmail.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+947,188,1,1,2,"Hi, I need a corporate credit card for my international travel with the $5.21. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+948,13,0,4,3,Hi HR team I want to refer my friend for the Advertising account planner but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+949,135,3,2,2,"Hi, I need $368.14 for my international business travel that is on 1994-03-06 please see the attached itinerary and approval. Thank you.",money date,0
+950,64,4,3,3,"Hi, since yesterday I am trying to apply for leave but I am not able to. The system shows an error. I have to take an urgent leave. Please resolve the issue.",,0
+951,0,2,4,3,Hi HR team I want to refer my friend for the Mental health nurse but I cannot access the referral site. Can you please accept this referral through this mail.,job,0
+952,23,2,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+953,166,0,5,2,"Hi,I am Joseph Young and from 0497 Yu Tunnel Suite 673
+Gibsonmouth, WA 14567. 
+I am having trouble with my medical claim, my employee ID is EMP704-30-1849 and amount was $54.14. 
+The payment was made through my credit card 2252851852710653. 
+My other details such as designation is Social worker email is alicia60@gmail.com and postal code is 38256. 
+Please resolve my issue asap.",name address ssn money credit_card_number job mail zip_code,1
+954,94,2,5,3,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city New Amy.,city,0
+955,32,4,3,2,"Hi team, I am Steven Wang, employee id 697-90-6256. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+956,181,2,2,3,"Hi,I am Thomas Hughes and my employee ID is EMP642-18-3816. 
+I am having trouble with my travel claim, my expense amount was $8,437.39 for reimbursement. 
+My other details such as email is jessicaberger@hotmail.com and postal code is 01677 and account number is JRFG02621755060560. 
+Please look into matter asap. My place of residence is 8619 Pamela Rapids Suite 978
+Calebfort, KS 92442.",name ssn money mail zip_code bank_account_number address,1
+957,109,1,4,2,"Hi Team, I was wondering whether this Administrator, charities/voluntary organisations is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+958,149,2,2,3,"Hi,I am Dalton Summers and my employee ID is EMP360-31-2275. 
+I am having trouble with my travel claim, my expense amount was $7.82 for reimbursement.
+ My other details such as designation is Systems analyst and email is ethan01@gmail.com. 
+The payment was done with given credit card number 4556796916477253 and credit card type American Express.",name ssn money job mail credit_card_number cc_provider,1
+959,103,0,6,2,"Hi, I have been logged out of my account and cannot login back. my username is zward. Please resolve it.",username,0
+960,31,1,2,3,"Dear team, I am shifting to South Melissa from West Richard due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+961,156,3,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+962,158,1,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+963,80,2,2,2,"Hi,I am Tara Johnson and my employee ID is EMP695-46-5235. 
+I am having trouble with my travel claim, my expense amount was $2.79 for reimbursement. 
+My other details such as email is amcdaniel@hotmail.com and postal code is 03060 and account number is JNQU79491148381110. 
+Please look into matter asap. My place of residence is PSC 9609, Box 3450
+APO AP 46840.",name ssn money mail zip_code bank_account_number address,1
+964,107,3,0,3,"Hi team, I want to upgrade the Salesforce for my project requirements. Kidly do the needful.",software,0
+965,2,4,0,3,"Hi team, I am not able to run Procore in my system due to internal error. Please see the attached error and resolve the issue",software,0
+966,82,2,6,3,"I am unable to log in to my account. My credentials are, username chadmiller, email jmclean@yahoo.com. I have verified that the username and password are correct, but the system keeps displaying an error message. I have tried resetting my password and clearing my cache, but the issue persists.",username mail,1
+967,50,0,6,2,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+968,149,2,2,1,"Hi, I need $214.61 for my international business travel that is on 2002-10-25 please see the attached itinerary and approval. Thank you.",money date,0
+969,119,3,7,0,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+970,41,3,4,0,"Hi Team, can you please confirm whether on the 1970-01-04 we have a vacation or not as in my state it is a regional festival.",date,0
+971,18,2,1,3,"Hi,I am Juan Lopez and my employee ID is EMP063-39-8150. 
+I am having trouble with my hardware claim, my expense amount was $4,608.58 for reimbursement. 
+My other details such as designation is IT consultant, userid barbarali and email is garciacarol@hotmail.com.",name ssn money job username mail,1
+972,97,3,6,1,"Hi team, I need access to the intern portal. please enable it for me.",,0
+973,176,4,0,2,Hi team I want to access https://burke.com/ website for research purpose kindly remove the site from the proxy,url,0
+974,16,1,1,3,"Hi, I need a corporate credit card for my international travel with the $45.69. Please issue the same at the earliest. I have attached the approval and important documents. Thank you.",money,0
+975,89,0,3,3,"Hi, I have applied for the sick leave on 1980-04-22 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+976,76,0,2,1,"Dear team, I am shifting to West Donna from New Michaelborough due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+977,172,1,4,3,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 606-75-0610. Please initiate the recruitment under my project. thanks",ssn,1
+978,61,0,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+979,119,3,6,3,"Hi team, I need access to the intern portal. please enable it for me.",,0
+980,70,1,1,3,"Hi, my team needs a new Microwave for the project kindly help us to come up with the quote for the said product.",product_name,0
+981,104,4,6,0,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+982,157,2,6,2,"Hi team, I need access to the intern portal. please enable it for me.",,0
+983,35,3,2,3,"Hi,I am Brooke Young and my employee ID is EMP305-15-6164. 
+I am having trouble with my travel claim, my expense amount was $98.27 for reimbursement.
+ My other details such as designation is Engineer, control and instrumentation and email is courtneywebb@yahoo.com. 
+The payment was done with given credit card number 676131246487 and credit card type American Express.",name ssn money job mail credit_card_number cc_provider,1
+984,89,0,6,3,"Hi team, i do not need access the master database now due to project change. Please revoke my access.",,0
+985,62,2,4,3,"Dear team, I want more members in my team. The project requires more skilled employee for the early completion of client project. My employee id is 108-13-5008. Please initiate the recruitment under my project. thanks",ssn,1
+986,122,3,2,3,"Hi, I need $15.99 for my international business travel that is on 1995-02-07 please see the attached itinerary and approval. Thank you.",money date,0
+987,155,1,3,3,"Hi team, I am Gerald Gaines, employee id 064-66-5389. I want to unpaid leave for the year. I am going to take executive degree from ISB Hyderabad. Thank you.",name ssn,1
+988,163,4,7,3,"Hi, can I make the payment of purchase of product by my personal credit card? I do not have corporate one issued yet.",,0
+989,60,4,2,2,"Dear team, I am shifting to Dunlapfurt from North Larry due to business requirement. Please let me know the procedure to claim the travel allowance.",city city,0
+990,183,2,4,3,"Hi Team, can you please confirm whether on the 2008-11-03 we have a vacation or not as in my state it is a regional festival.",date,0
+991,73,3,4,3,"Hi Team, I was wondering whether this Psychologist, prison and probation services is still available in this team. I want to refer my friend for this role. please confirm.",job,0
+992,152,1,5,2,Hi I want to apply for the cashless mode of hospitalization. please provide me the list of hospital that provide cashless mode in my city Lake Anneville.,city,0
+993,34,0,7,1,"Hi, I have a need of Air Conditioner in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+994,61,0,7,3,"Hi, I have a need of Blender in my team. How long it will take for us to procure it? Do we have any spare available. I need it urgently for our project.",product_name,0
+995,110,3,3,2,"Hi, I have applied for the sick leave on 2000-08-03 with which was approved by my manager but is not reflected on the system. Please resolve the issue.",date,0
+996,137,2,4,3,"Hi Team, can you please confirm whether on the 1997-06-12 we have a vacation or not as in my state it is a regional festival.",date,0
+997,72,1,1,2,I noticed unauthorized transactions on my credit card statement for the amount of $763.32 on 2001-03-15. The transactions are listed as Jones and Sons. I did not authorize these transactions and would like them to be reversed immediately to my credit card 4561036077950379589.,money date company credit_card_number,1
+998,196,0,3,3,"Hi team, I want a leave from 1981-09-20 for 15 days due to personal reasons. The system is not allowing for said days. Kindly approve it. My details are name:Christopher Macias, designation Airline pilot",date name job,1
+999,2,4,5,1,"hi, what are the documents needed for new enrollment in health insurance. Please guide me.",,0
